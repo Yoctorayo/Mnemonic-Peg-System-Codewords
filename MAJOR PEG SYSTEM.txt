@@ -22,7 +22,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 
 (2, 27 or 7): ng, n before k, hard c, q, hard g or x; Variant systems differ about whether /ŋ/ should encode 2 and classified together with /n/, 7 and classified together with /k/ and /ɡ/ or even 27 (e.g. ring could be 42, 47 or 427). When a /k/ and /ɡ/ is pronounced separately after the /ŋ/, variant systems that chose /ŋ/ to be 27 also disagree if an extra 7 should be written (e.g. finger could be 8274 or 82774, or if /ŋ/ is chosen to be 7, 8774).
 
-0 = s, x, z ch
+0 = s, x, z soft c.
 1 = t, d, th.
 2 = n.
 3 = m.
