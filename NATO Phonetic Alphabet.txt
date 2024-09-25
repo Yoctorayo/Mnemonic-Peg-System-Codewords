@@ -1,0 +1,26 @@
+A: Alpha, A l p h a.
+B: Bravo, B r a v o.
+C: Charlie, C h a r l i e.
+D: Delta, D e l t a.
+E: Echo, E c h o.
+F: Foxtrot, F o x t r o t.
+G: Golf, G o l f.
+H: Hotel, H o t e l.
+I: India, I n d i a.
+J: Juliet, J u l i e t.
+K: Kilo, K i l o.
+L: Lima, L i m a.
+M: Mike, M i k e.
+N: November, N o v e m b e r.
+O: Oscar, O s c a r.
+P: Papa, P a p a.
+Q: Quebec, Q u e b e c.
+R: Romeo, R o m e o.
+S: Sierra, S i e r r a.
+T: Tango, T a n g o.
+U: Uniform, U n i f o r m.
+V: Victor, V i c t o r.
+W: Whisky, W h i s k y.
+X: X-ray, X - r a y.
+Y: Yankee, Y a n k e e.
+Z: Zulu, Z u l u.
