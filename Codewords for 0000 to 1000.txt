@@ -33,6 +33,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 8 = f, v, ph.
 9 = p, b.
 
+#0000: SAUCE, S A U C E.
 #000: SEESAWS, S E E S A W S.
 #001: SOCIETY, S O C I E T Y.
 #002: ASSASSIN, A S S A S S I N.
