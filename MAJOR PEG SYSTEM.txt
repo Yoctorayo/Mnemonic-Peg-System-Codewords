@@ -33,6 +33,8 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 8 = f, v, ph.
 9 = p, b.
 
+#0000: SAUCE, S A U C E.
+
 #00: SAS, S  A  S.
 
 #01: SEED, S  E  E  D.
