@@ -1,16 +1,28 @@
 #0: s, soft c, z, x (in xylophone) Zero begins with z (and /z/). Upper case S and Z, as well as lower case s and z, have zero vertical strokes each, as with the numeral 0. 
+
 #1: t, d , th (both in thing and this) Upper case T and D, as well as lower case t and d have one vertical stroke each, as with the numeral 1. 
+
 #2: n Upper case N and lower case n each have two vertical strokes and two points on the baseline.
+
 #3: m Lower case m has three vertical strokes. Both upper case M and lower case m each have three points on the baseline and look like the numeral 3 on its side.
+
 #4: r, l (as sounded in colonel) Four ends with r (and /r/ in rhotic accents).
+
 #5: l L is the Roman numeral for 50. Among the five digits of one's left hand, the thumb and index fingers also form an L.
+
 #6: ch (in cheese and chef), j, soft g, sh, c (as sounded in cello and special), cz (as sounded in Czech), s (as sounded in tissue and vision), sc (as sounded in fascist), sch (as sounded in schwa and eschew), t (as sounded in ration and equation), tsch (in putsch), z (in seizure) Upper case G looks like the numeral 6 and lower case g looks like the numeral 6 rotated 180°. Lower case script j tends to have a lower loop, like the numeral 6. In some serif fonts, upper case CH, SH and ZH each have six serifs. .
+
 #7: k, hard c, q, hard g, ch (as sounded in loch); Both upper case K and lower case k look like two small 7s on their sides. In some fonts, the lower-right part of the upper case G looks like a 7. G is also the 7th letter of the alphabet. 
+
 #8: f, ph (in phone), v, gh (as sounded in laugh); Lower case script f, which tends to have an upper and lower loop, looks like a figure-8. 
+
 #9: p, b; Upper case P and lower case p look like the numeral 9 flipped horizontally. Lower case b looks like the numeral 9 turned 180°. 
+
 Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah), j (in Hallelujah and jalapeno), ll (in tortilla); Vowel sounds, semivowels (/j/ and /w/) and /h/ do not correspond to any number. They can appear anywhere in a word without changing its number value.
+
 (2, 27 or 7) ng, n before k, hard c, q, hard g or x; Variant systems differ about whether /ŋ/ should encode 2 and classified together with /n/, 7 and classified together with /k/ and /ɡ/ or even 27 (e.g. ring could be 42, 47 or 427). When a /k/ and /ɡ/ is pronounced separately after the /ŋ/, variant systems that chose /ŋ/ to be 27 also disagree if an extra 7 should be written (e.g. finger could be 8274 or 82774, or if /ŋ/ is chosen to be 7, 8774).
-0 = s, x, z. soft c
+
+0 = s, x, z soft c.
 1 = t, d, th.
 2 = n.
 3 = m.
