@@ -1,4 +1,4 @@
-﻿0: s, soft c, z, x (in xylophone); Zero begins with z (and /z/). Upper case S and Z, as well as lower case s and z, have zero vertical strokes each, as with the numeral 0. The alveolar fricatives /s/ and /z/ form a voiceless and voiced pair.
+0: s, soft c, z, x (in xylophone); Zero begins with z (and /z/). Upper case S and Z, as well as lower case s and z, have zero vertical strokes each, as with the numeral 0. The alveolar fricatives /s/ and /z/ form a voiceless and voiced pair.
 
 1: t, d , th (both in thing and this); Upper case T and D, as well as lower case t and d have one vertical stroke each, as with the numeral 1. The alveolar stops /t/ and /d/ form a voiceless and voiced pair, as do the similar-sounding dental fricatives /θ/ and /ð/, though some variant systems may omit the latter pair.
 
@@ -22,18 +22,16 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 
 (2, 27 or 7): ng, n before k, hard c, q, hard g or x; Variant systems differ about whether /ŋ/ should encode 2 and classified together with /n/, 7 and classified together with /k/ and /ɡ/ or even 27 (e.g. ring could be 42, 47 or 427). When a /k/ and /ɡ/ is pronounced separately after the /ŋ/, variant systems that chose /ŋ/ to be 27 also disagree if an extra 7 should be written (e.g. finger could be 8274 or 82774, or if /ŋ/ is chosen to be 7, 8774).
 
-0 = s, x, z soft c.
-1 = t, d, th.
-2 = n.
-3 = m.
-4 = r.
-5 = l.
-6 = sh, ch, j, soft g.
-7 = c, k, hard g, q.
-8 = f, v, ph.
+0 = s, x, z
+1 = t, d
+2 = n
+3 = m
+4 = r
+5 = l
+6 = sh, ch, j, soft g
+7 = c, k, hard g, q
+8 = f, v
 9 = p, b.
-
-#0000: SAUCE, S A U C E.
 
 #00: SAS, S  A  S.
 
@@ -2271,4 +2269,4 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 
 #8000: OFFICE, O F F I C E.
 
-#9000: BASIS, B A S I S.
+#9000: BOSSES, B O S S E S.
