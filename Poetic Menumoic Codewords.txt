@@ -1,0 +1,3071 @@
+#0: s, soft c, z, x (in xylophone) Zero begins with z (and /z/). Upper case S and Z, as well as lower case s and z, have zero vertical strokes each, as with the numeral 0. 
+#1: t, d , th (both in thing and this) Upper case T and D, as well as lower case t and d have one vertical stroke each, as with the numeral 1. 
+#2: n Upper case N and lower case n each have two vertical strokes and two points on the baseline.
+#3: m Lower case m has three vertical strokes. Both upper case M and lower case m each have three points on the baseline and look like the numeral 3 on its side.
+#4: r, l (as sounded in colonel) Four ends with r (and /r/ in rhotic accents).
+#5: l L is the Roman numeral for 50. Among the five digits of one's left hand, the thumb and index fingers also form an L.
+#6: ch (in cheese and chef), j, soft g, sh, c (as sounded in cello and special), cz (as sounded in Czech), s (as sounded in tissue and vision), sc (as sounded in fascist), sch (as sounded in schwa and eschew), t (as sounded in ration and equation), tsch (in putsch), z (in seizure) Upper case G looks like the numeral 6 and lower case g looks like the numeral 6 rotated 180°. Lower case script j tends to have a lower loop, like the numeral 6. In some serif fonts, upper case CH, SH and ZH each have six serifs. .
+#7: k, hard c, q, hard g, ch (as sounded in loch); Both upper case K and lower case k look like two small 7s on their sides. In some fonts, the lower-right part of the upper case G looks like a 7. G is also the 7th letter of the alphabet. 
+#8: f, ph (in phone), v, gh (as sounded in laugh); Lower case script f, which tends to have an upper and lower loop, looks like a figure-8. 
+#9: p, b; Upper case P and lower case p look like the numeral 9 flipped horizontally. Lower case b looks like the numeral 9 turned 180°. 
+Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah), j (in Hallelujah and jalapeno), ll (in tortilla); Vowel sounds, semivowels (/j/ and /w/) and /h/ do not correspond to any number. They can appear anywhere in a word without changing its number value.
+(2, 27 or 7) ng, n before k, hard c, q, hard g or x; Variant systems differ about whether /ŋ/ should encode 2 and classified together with /n/, 7 and classified together with /k/ and /ɡ/ or even 27 (e.g. ring could be 42, 47 or 427). When a /k/ and /ɡ/ is pronounced separately after the /ŋ/, variant systems that chose /ŋ/ to be 27 also disagree if an extra 7 should be written (e.g. finger could be 8274 or 82774, or if /ŋ/ is chosen to be 7, 8774).
+0 = s, x, z soft c.
+1 = t, d, th.
+2 = n.
+3 = m.
+4 = r.
+5 = l.
+6 = sh, ch, j, soft g.
+7 = c, k, hard g, q.
+8 = f, v, ph.
+9 = p, b.
+
+Alphabet.
+In the skies of **Alpha**, where dreams take their flight,  
+We march through **Bravo**, hearts bold and bright.  
+**Charlie** calls softly, a whisper so sweet,  
+While **Delta** brings change with each steady beat.  
+The **Echo** resounds, a voice from afar,  
+Guiding us gently, like a bright shining star.  
+In the dance of **Foxtrot**, we sway and we spin,  
+As **Golf** rolls along, inviting us in.  
+We find solace in **Hotel**, a refuge, a home,  
+In the arms of **India**, where wanderers roam.  
+With **Juliet** beside us, love's light in the night,  
+We hold onto **Kilo**, where dreams feel just right.  
+Through the lush fields of **Lima**, with hope in our stride,  
+**Mike** calls us onward, as we move side by side.  
+In the chill of **November**, we gather the warmth,  
+With **Oscar** as witness, our spirits transform.  
+**Papa** stands tall, a beacon so bright,  
+While **Quebec** brings comfort, a safe place in sight.  
+In the heart of **Romeo**, love's passion ignites,  
+With **Sierra** beneath us, we scale new heights.  
+As we sway with the rhythm of **Tango**, we dance,  
+In the spirit of **Uniform**, we take every chance.  
+With **Victor** beside us, we conquer the fray,  
+While **Whisky** flows freely, easing our way.  
+Through the lens of **X-ray**, our visions align,  
+And with **Yankee** in spirit, our hearts intertwine.  
+So let’s celebrate **Zulu**, the journey we’ve made,  
+In the tapestry of letters, our memories cascade.  
+A: Alpha, A l p h a.
+B: Bravo, B r a v o.
+C: Charlie, C h a r l i e.
+D: Delta, D e l t a.
+E: Echo, E c h o.
+F: Foxtrot, F o x t r o t.
+G: Golf, G o l f.
+H: Hotel, H o t e l.
+I: India, I n d i a.
+J: Juliet, J u l i e t.
+K: Kilo, K i l o.
+L: Lima, L i m a.
+M: Mike, M i k e.
+N: November, N o v e m b e r.
+O: Oscar, O s c a r.
+P: Papa, P a p a.
+Q: Quebec, Q u e b e c.
+R: Romeo, R o m e o.
+S: Sierra, S i e r r a.
+T: Tango, T a n g o.
+U: Uniform, U n i f o r m.
+V: Victor, V i c t o r.
+W: Whisky, W h i s k y.
+X: X-ray, X - r a y.
+Y: Yankee, Y a n k e e.
+Z: Zulu, Z u l u.
+
+#000 To #009.
+On the **seesaws** of life, we rise and we sway,  
+Caught in the balance of our fractured **society**’s play.  
+An unseen **assassin** lurks in the dark,  
+Waiting to strike, leaving only a mark.  
+With a sharp **assessment**, we cut through the haze,  
+Like **scissors** that sever the tangled malaise.  
+In the **Sicilian** sun, shadows dance on the street,  
+Echoes of laughter where memories meet.  
+An **association** of voices, both old and new,  
+Whispering truths that are often askew.  
+Yet in the waves of **seasickness**, we churn and we sway,  
+Finding our footing in the light of the day.  
+The scent of **sassafras** fills the air with delight,  
+As we gather our courage to face the night.  
+With hearts held by **suspenders**, we take one more leap,  
+Embracing the journey, the dreams that we keep.  
+#000: SEESAWS, S E E S A W S.
+#001: SOCIETY, S O C I E T Y.
+#002: ASSASSIN, A S S A S S I N.
+#003: ASSESSMENT, A S S E S S M E N T.
+#004: SCISSORS, S C I S S O R S.
+#005: SICILIAN, S I C I L I A N.
+#006: ASSOCIATION, A S S O C I A T I O N.
+#007: SEASICKNESS, S E A S I C K N E S S.
+#008: SASSAFRAS, S A S S A F R A S.
+#009: SUSPENDERS, S U S P E N D E R S.
+
+#00 To #09.
+**In the Oasis**  
+In the heart of an **oasis**, where cool waters flow,  
+I sip on sweet **soda**, letting worries go.  
+Beneath the warm **sun**, a soft breeze does hum,  
+I find peace in the **psalm** of the desert drum.  
+A distant **czar** rides with pride, his banner held high,  
+While children on a **sleigh** let out laughter and sigh.  
+I **switch** from my thoughts to the sounds of the land,  
+As a **squaw** calls her kin, by the warm, shifting sand.  
+With a gentle **sieve**, I sift through my dreams,  
+And wash them with **soap**, in the sunlight’s warm beams.  
+#00: OASIS, O A S I S.
+#01: SODA, S O D A.
+#02: SUN, S U N.
+#03: PSALM, P S A L M.
+#04: CZAR, C Z A R.
+#05: SLEIGH, S L E I G H.
+#06: SWITCH, S W I T C H.
+#07: SQUAW, S Q U A W.
+#08: SIEVE, S I E V E.
+#09: SOAP, S O A P.
+
+#010 To #019.
+In this dance of existence, we find our way,  
+Crafting our moments, come what may.  
+In the shadows, the **stowaways** wait,  
+Hidden dreams under the bright **stadium** gate.  
+A **stenographer** scribbles, capturing tales,  
+While hope’s gentle **stamp** on their hearts never fails.  
+A lone **star** flickers in the twilight sky,  
+Guiding the lost as the night whispers by.  
+With courage, they ride on life’s worn-out **saddle**,  
+Each **stitch** of their journey, a story to addle.  
+The sizzle of **steak** from a warm, glowing **stove**,  
+Fills the air with comfort, where memories rove.  
+In the quiet of a **stable**, where dreams softly dwell,  
+They gather their strength, ready to rebel.  
+Together they forge a path of their own,  
+In the tapestry of life, where seeds of hope are sown.
+#010: STOWAWAYS, S T O W A W A Y S.
+#011: STADIUM, S T A D I U M.
+#012: STENOGRAPHER, S T E N O G R A P H E R.
+#013: STAMP, S T A M P.
+#014: STAR, S T A R.
+#015: SADDLE, S A D D L E.
+#016: STITCH, S T I T C H.
+#017: STEAK, S T E A K.
+#018: STOVE, S T O V E.
+#019: STABLE, S T A B L E.
+
+#020 To #029.
+A **censor** of whispers drifts on the **sand**,  
+Where words lose their weight, slipping from hand to hand.  
+Each **synonym** dances, trying to stay,  
+Yet some fade away, like dusk into day.  
+The scent of **cinnamon** warms the cool air,  
+As memories mingle in the **scenery** rare.  
+A patient **snail** leaves a trail as it glides,  
+Moving slowly through moments where wonder abides.  
+A quick **cinch** of the rope, holding tight to the dream,  
+While shadows slither like a sly **snake** on a beam.  
+In the hush of the night, a flicker of **snuff**,  
+Hides the glow of ambition when the going gets tough.  
+Yet amidst the chatter, a **snob** looks away,  
+Missing the beauty in life’s intricate play.  
+For in every heartbeat, a story is spun,  
+In the tapestry woven, we’re all just as one.  
+#020: CENSOR, C E N S O R.
+#021: SAND, S A N D.
+#022: SYNONYM, S Y N O N Y M.
+#023: CINNAMON, C I N N A M O N.
+#024: SCENERY, S C E N E R Y.
+#025: SNAIL, S N A I L.
+#026: CINCH, C I N C H.
+#027: SNAKE, S N A K E.
+#028: SNUFF, S N U F F.
+#029: SNOB, S N O B.
+
+#030 To #039.
+The **seamstress** hums as the day drifts away,  
+Her fingers dance lightly, crafting dreams in gray.  
+Nearby, in the **cemetery**, shadows grow long,  
+Whispering stories, where the silent belong.  
+A **somnambulist** wanders through dusk’s gentle haze,  
+With memories trailing like a soft, distant gaze.  
+“**Simon** says, chase the light,” echoes in air,  
+As he flips through the twilight, without a care.  
+A quick **somersault** lands him back on his feet,  
+He flashes a **smile**, making the moment sweet.  
+Yet a dark **smudge** on his heart tells a tale,  
+Of a **smuggler** of dreams, caught in a frail.  
+With signals like **semaphore**, waving so bright,  
+He searches for meaning in the fading light.  
+Beneath a wide **sombrero**, he finds his way,  
+Navigating shadows as night claims the day. 
+#030: SEAMSTRESS, S E A M S T R E S S.
+#031: CEMETERY, C E M E T E R Y.
+#032: SOMNAMBULIST, S O M N A M B U L I S T.
+#033: SIMON, S I M O N.
+#034: SOMERSAULT, S O M E R S A U L T.
+#035: SMILE, S M I L E.
+#036: SMUDGE, S M U D G E.
+#037: SMUGGLER, S M U G G L E R.
+#038: SEMAPHORE, S E M A P H O R E.
+#039: SOMBRERO, S O M B R E R O.
+
+#040 To #049.
+In the dark of the **sewers**, where secrets are spun,  
+Lies the forgotten tales of battles once won.  
+A rusty **sword** glimmers with stories untold,  
+Echoes of courage in the shadows unfold.  
+With a **syringe** of hope, they seek to repair,  
+The broken dreams lost in the depths of despair.  
+A grand **ceremony** honors those who have fought,  
+Their sacrifices etched in the lessons they taught.  
+In the halls of a **sorority**, laughter resounds,  
+As friendships are woven through shared hopes and bounds.  
+They sit over **cereal**, exchanging their dreams,  
+Finding solace together in life’s winding streams.  
+A skilled **surgeon** stands ready, instruments in hand,  
+Crafting new beginnings where darkness once spanned.  
+Under the bright lights of a traveling **circus**,  
+Life spins and tumbles, a dance without fuss.  
+The loyal **servant** watches with pride in his heart,  
+As joy spills like **syrup**, a sweet work of art.  
+In this tapestry woven with love and with grace,  
+We find our connection, our rightful place.  
+#040: SEWERS, S E W E R S.
+#041: SWORD, S W O R D.
+#042: SYRINGE, S Y R I N G E.
+#043: CEREMONY, C E R E M O N Y.
+#044: SORORITY, S O R O R I T Y.
+#045: CEREAL, C E R E A L.
+#046: SURGEON, S U R G E O N.
+#047: CIRCUS, C I R C U S.
+#048: SERVANT, S E R V A N T.
+#049: SYRUP, S Y R U P.
+
+ 
+#050 To #059.
+A tired **salesman** wanders through the fading light,  
+His weary **silhouette** framed against the night.  
+Outside a **saloon**, laughter spills like wine,  
+While echoes from the **slums** weave stories divine.  
+With dreams that stretch far beyond his **salary**,  
+He chases a vision, a world that’s free.  
+In the glow of **celluloid**, the screen flickers bright,  
+Portraying a life where the future feels right.  
+But the streets are thick with melting **slush**,  
+As he navigates paths in a hurried rush.  
+A lazy **slacker** lounges, lost in his schemes,  
+While he feels like a **slave** to his broken dreams.  
+With each passing moment, he fears he might **slip**,  
+Into shadows of doubt, let the darkness grip.  
+Yet deep in his heart, a spark still ignites,  
+Reminding him softly to reach for the heights. 
+#050: SALESMAN, S A L E S M A N.
+#051: SILHOUETTE, S I L H O U E T T E.
+#052: SALOON, S A L O O N.
+#053: SLUMS, S L U M S.
+#054: SALARY, S A L A R Y.
+#055: CELLULOID, C E L L U L O I D.
+#056: SLUSH, S L U S H.
+#057: SLACKER, S L A C K E R.
+#058: SLAVE, S L A V E.
+#059: SLIP, S L I P.
+
+#060 To #069.
+In the dance of the night, where **sashes** flow bright,  
+We gather in warmth, embracing **satiety**’s light.  
+With laughter and joy, in this festive **session**,  
+We celebrate life, a shared connection.  
+A wise **sachem** stands with stories to tell,  
+Of triumphs and trials, where spirits swell.  
+Yet a sudden **seizure** of doubt creeps near,  
+Whispers of shadows bring forth hidden fear.  
+The voice of a **socialist** rises with grace,  
+Challenging norms in this welcoming space.  
+As the **situation** unfolds, we listen and learn,  
+For change comes with courage, a steady burn.  
+With **siege-craft** in hand, we prepare for the fight,  
+To reclaim what is ours, to stand for the right.  
+A **Sioux chief** speaks, his words strong and clear,  
+Uniting the hearts that gather right here.  
+And like a daring **swashbuckler**, bold and free,  
+We sail through the storms, creating our sea.  
+In this tapestry woven, our stories entwine,  
+Together we rise, through the dark, we will shine.   
+#060: SASHES, S A S H E S.
+#061: SATIETY, S A T I E T Y.
+#062: SESSION, S E S S I O N.
+#063: SACHEM, S A C H E M.
+#064: SEIZURE, S E I Z U R E.
+#065: SOCIALIST, S O C I A L I S T.
+#066: SITUATION, S I T U A T I O N.
+#067: SIEGE-CRAFT, S I E G E - C R A F T.
+#068: SIOUX-CHIEF, S I O U X - C H I E F.
+#069: SWASHBUCKLER, S W A S H B U C K L E R.
+
+#070 To #079.
+Beneath the looming **skyscraper**, shadows stretch wide,  
+A **scout** on the corner watches the city abide.  
+A curious **skunk** scurries past, tail held high,  
+In a world full of secrets, beneath the vast sky.  
+A clever **schemer** plots with a glint in his eye,  
+While the weight of a **scar** tells the tales of a lie.  
+With each careful **scale**, he measures his gain,  
+Crafting his dreams through the struggle and pain.  
+A **sketch** of the future, drawn with hopeful hands,  
+Fills the pages with visions of faraway lands.  
+Yet the floorboards **squeak** with stories untold,  
+Whispers of lives that dared to be bold.  
+Like a **scavenger** searching through remnants of old,  
+He gathers the fragments, the silver and gold.  
+But beneath the surface, a lingering **scab**  
+Hides the pain of the past, a weight we all grab.  
+In the heart of the city, where dreams intertwine,  
+We rise from the ashes, our spirits align.
+#070: SKYSCRAPER, S K Y S C R A P E R.
+#071: SCOUT, S C O U T.
+#072: SKUNK, S K U N K.
+#073: SCHEMER, S C H E M E R.
+#074: SCAR, S C A R.
+#075: SCALE, S C A L E.
+#076: SKETCH, S K E T C H.
+#077: SQUEAK, S Q U E A K.
+#078: SCAVENGER, S C A V E N G E R.
+#079: SCAB, S C A B.
+
+#080 To #089.
+In the vaults of the **safes**, secrets quietly rest,  
+Guarding the whispers of those who’ve been blessed.  
+With charm and **suavity**, they navigate life,  
+While dreams twist and turn through the edges of strife.  
+A **siphon** of hope flows through corridors dim,  
+As a restless **sophomore** yearns for chances to swim.  
+With the courage of a **suffragette**, bold and proud,  
+She raises her voice, breaking free from the crowd.  
+In the midst of **civilians**, with stories to share,  
+They challenge the norms with a fervent flare.  
+Yet shadows of **savages** lurk in the night,  
+As they fight through the darkness, seeking the light.  
+The weight of **suffocation** hangs heavy and thick,  
+Yet they rise through the pressure, resilient and quick.  
+At the **safe-firm**, they gather, their spirits entwined,  
+On a worn **sofa-bed**, where solace they find.  
+In this tapestry woven of struggle and grace,  
+They forge their own paths, each heart finds its place. 
+#080: SAFES, S A F E S.
+#081: SUAVITY, S U A V I T Y.
+#082: SIPHON, S I P H O N.
+#083: SOPHOMORE, S O P H O M O R E.
+#084: SUFFRAGETTE, S U F F R A G E T T E.
+#085: CIVILIAN, C I V I L I A N.
+#086: SAVAGES, S A V A G E S.
+#087: SUFFOCATION, S U F F O C A T I O N.
+#088: SAFE-FIRM, S A F E - F I R M.
+#089: SOFA-BED, S O F A - B E D.
+
+#090 To #099.
+In the shadows where **spies** weave their tales,  
+Like a hidden **spider**, their secrecy prevails.  
+The **spendthrift** dreams of a life far away,  
+While a sleek **submarine** glides beneath the gray.  
+A **spiritualist** calls to the spirits of old,  
+Seeking the wisdom that cannot be sold.  
+Above, a grand **zeppelin** floats through the sky,  
+Carrying whispers as the world rushes by.  
+With a heartfelt **speech**, they gather the crowd,  
+Voices united, strong and unbowed.  
+From a rusty **spigot**, truth starts to flow,  
+Watering seeds of change, watching them grow.  
+A quiet **subvention** fuels the brave heart,  
+Nurturing dreams that refuse to depart.  
+Yet from the shadows, a **subpoena** appears,  
+Calling the hidden to face all their fears.  
+In this dance of the clandestine and bright,  
+We search for the truths that emerge from the night.   
+#090: SPIES, S P I E S.
+#091: SPIDER, S P I D E R.
+#092: SPENDTHRIFT, S P E N D T H R I F T.
+#093: SUBMARINE, S U B M A R I N E.
+#094: SPIRITUALIST, S P I R I T U A L I S T.
+#095: ZEPPELIN, Z E P P E L I N.
+#096: SPEECH, S P E E C H.
+#097: SPIGOT, S P I G O T.
+#098: SUBVENTION, S U B V E N T I O N.
+#099: SUBPOENA, S U B P O E N A.
+
+#0 To #9. 
+**A Hero's Journey**  
+An **ace** in a deck, under a **hat** so wide,  
+Sipping **wine** as I dream of the **home** where I reside.  
+With thoughts of a **hero**, brave and still,  
+I climb to the **hill**, where dreams begin to thrill.  
+A vibrant **show** of colors paints the sky,  
+An ancient **oak** stands tall, reaching high.  
+I ride the gentle **wave** of hope that swells,  
+As a **boy** with dreams, where adventure dwells.  
+#0: ACE, A C E.  
+#1: HAT, H A T.
+#2: WINE, W I N E.
+#3: HOME, H O M E.
+#4: HERO, H E R O.
+#5: HILL, H I L L.
+#6: SHOW, S H O W.
+#7: OAK, O A K.
+#8: WAVE, W A V E.
+#9: BOY, B O Y.
+
+#10 To #19.
+In a **hothouse** where dreams bloom, warmth fills the air,  
+Amidst whispers of **death**, an echo of care.  
+In a quaint little **town**, where stories intertwine,  
+Lives a **team** of the brave, with hearts that align.  
+A tall **tower** stands proud, a sentinel’s gaze,  
+Watching over the people through all of their days.  
+Within the old **hotel**, where laughter once rang,  
+Memories linger, and the past softly sang.  
+A **Dutch** child with eyes full of wonder and glee,  
+Plays with a **dog** in the shade of the trees.  
+Yet lurking in shadows, a **thief** walks the night,  
+Searching for treasures concealed from the light.  
+By the old **depot**, where trains used to roll,  
+Dreams leave on journeys, each story a scroll.  
+In the heart of this town, where hopes often soar,  
+Life weaves its tapestry, forever encore.  
+#10: HOTHOUSE, H O T H O U S E.
+#11: DEATH, D E A T H.
+#12: TOWN, T O W N.
+#13: TEAM, T E A M.
+#14: TOWER, T O W E R.
+#15: HOTEL, H O T E L.
+#16: DUTCH, D U T C H.
+#17: DOG, D O G.
+#18: THIEF, T H I E F.
+#19: DEPOT, D E P O T.
+
+#20 To #29.
+In the silence of night, there’s a **noise** from afar,  
+A distant **hunt**, guided by a wandering star.  
+A cloaked **nun** whispers prayers in the gloom,  
+As shadows of an **enemy** gather, bringing doom.  
+With echoes of **Nero**, the tyrant’s dark reign,  
+The world holds its breath, feeling the strain.  
+Each **nail** in the coffin, a story to tell,  
+Of struggles and triumphs, of heaven and hell.  
+With every **inch** that we take, we rise and we fall,  
+Like a brave **Yankee** answering freedom's call.  
+The strength of the **Navy** flows through our veins,  
+A reminder that hope still persists through the pains.  
+In the quiet of dusk, we long for a **nap**,  
+To dream of a world free from fear’s tight trap.  
+Yet we stand resolute, with courage as our guide,  
+Facing the darkness with love by our side.  
+I often **miss** the warmth of a sunlit **meadow**,  
+Where laughter lingers and soft breezes flow.  
+In a secret **mine**, where memories gleam,  
+I unearth the treasures of a childhood dream.  
+#20: NOISE, N O I S E.
+#21: HUNT, H U N T.
+#22: NUN, N U N.
+#23: ENEMY, E N E M Y.
+#24: NERO, N E R O.
+#25: NAIL, N A I L.
+#26: INCH, I N C H.
+#27: YANKEE, Y A N K E E.
+#28: NAVY, N A V Y.
+#29: NAP, N A P.
+
+#30 To #39.
+In the **miss** of morning light, I stroll through the **meadow**,  
+Where dreams dance lightly, like whispers in shadow.  
+A treasure I seek, for this heart is **mine**,  
+A relic of memories, in time’s gentle line.  
+Like a child with a **mummy**, I hold close my past,  
+Each **hammer** of memory, a story steadfast.  
+Through the rustle of **mail**, the secrets unfold,  
+An **image** of laughter, in colors so bold.  
+Beneath the green canopy, a **hammock** I find,  
+Rocking in rhythm, where worries unwind.  
+Yet lurking in shadows, the whispers grow loud,  
+Of a **mafia** of moments, cloaked in a shroud.  
+A restless **mob** of thoughts, they swirl in my mind,  
+In the dance of the present, old ghosts intertwined.  
+So I breathe in the **meadow**, let the past drift away,  
+Embracing the now, in the warmth of the day.    
+#30: MISS, M I S S.
+#31: MEADOW, M E A D O W.
+#32: MINE, M I N E.
+#33: MUMMY, M U M M Y.
+#34: HAMMER, H A M M E R.
+#35: MAIL, M A I L.
+#36: IMAGE, I M A G E.
+#37: HAMMOCK, H A M M O C K.
+#38: MAFIA, M A F I A.
+#39: MOB, M O B.
+
+#40 To #49.
+In the swift of a **race**, my pulse finds its **heart**,  
+As I navigate life, where dreams often start.  
+But amidst the **ruin** of battles long fought,  
+A secret **harem** of hopes lies quietly sought.  
+With the spirit of a **warrior**, I stand tall and brave,  
+Ready to **rule** over fears that I crave.  
+In the embrace of my **Irish** roots, I find strength,  
+Drawing from courage that stretches its length.  
+Yet shadows remain from the past’s deep **wreck**,  
+Echoes of choices that time won’t reject.  
+On the bustling **wharf**, where the waves gently crash,  
+I ponder my journey, and moments that flash.  
+Among the crowd, I see a charming **rube**,  
+With a smile so bright, it warms like a tube.  
+Together we laugh, as the tide rolls away,  
+Finding joy in the journey, come what may.  
+#40: RACE, R A C E.
+#41: HEART, H E A R T.
+#42: RUIN, R U I N.
+#43: HAREM, H A R E M.
+#44: WARRIOR, W A R R I O R.
+#45: RULE, R U L E.
+#46: IRISH, I R I S H.
+#47: WRECK, W R E C K.
+#48: WHARF, W H A R F.
+#49: RUBE, R U B E.
+
+#50 To #59.
+In the old **alehouse**, where stories unwind,  
+Sat a graceful **lady**, with secrets entwined.  
+Her gaze was as fierce as a noble **lion**,  
+Yet soft in its warmth, like a gentle Siren.  
+A **lame** old traveler recounted his tale,  
+Of trust broken down by the heart of a **liar**.  
+He spoke of a **lily** that bloomed by the shore,  
+A symbol of hope amidst trials and more.  
+With a **lash** of the wind, memories stirred,  
+As the ripples danced lightly on the calm **lake**.  
+In the quiet of dusk, where dreams dare to roam,  
+The whispers of **love** found a place to call home.  
+But the shadows of doubt cast their veil on the night,  
+Leaving behind a lingering **alibi** in flight.  
+Yet in the heart of the alehouse, beneath flickering light,  
+The stories of old weave a tapestry bright.  
+#50: ALEHOUSE, A L E H O U S E.
+#51: LADY, L A D Y.
+#52: LION, L I O N.
+#53: LAME, L A M E.
+#54: LIAR, L I A R.
+#55: LILY, L I L Y.
+#56: LASH, L A S H.
+#57: LAKE, L A K E.
+#58: LOVE, L O V E.
+#59: ALIBI, A L I B I.
+
+#60 To #69.
+In the still of the night, we face a **choice**,  
+As the **shadow** of doubt whispers its voice.  
+Beyond the horizon, where the vast **ocean** lies,  
+I turn to my **chum**, sharing dreams with the skies.  
+We sit in a **chair**, pondering what’s real,  
+Caught in a **jail** of thoughts we conceal.  
+A wise **judge** of our hearts weighs the paths we could take,  
+With each subtle **check**, we ponder our fate.  
+The **chief** of our spirits calls out to be brave,  
+As we navigate waters, both gentle and grave.  
+In the ever-changing **shape** of our lives,  
+We find strength in the journey, where true courage thrives.  
+#60: CHOICE, C H O I C E.
+#61: SHADOW, S H A D O W.
+#62: OCEAN, O C E A N.
+#63: CHUM, C H U M.
+#64: CHAIR, C H A I R.
+#65: JAIL, J A I L.
+#66: JUDGE, J U D G E.
+#67: CHECK, C H E C K.
+#68: CHIEF, C H I E F.
+#69: SHAPE, S H A P E.
+
+#70 To #79.
+A gentle **kiss** under the stars softly glows,  
+As she wraps her arms in a warm, cozy **coat**.  
+The night feels alive, like a **queen** on her throne,  
+Where laughter and whispers make hearts feel at home.  
+It’s all just a **game**, this dance of delight,  
+Yet beneath the surface, there's magic in sight.  
+A **cure** for the weary, a balm for the soul,  
+A **clue** in the darkness that helps us feel whole.  
+The **coach** of our dreams steers us through the night,  
+Guiding our journey, our spirits take flight.  
+As the **cook** stirs a potion in a simmering pot,  
+Crafting sweet moments that can’t be forgot.  
+In the depths of the **cave**, where secrets reside,  
+A lone **cowboy** whispers to the stars, full of pride.  
+For in every adventure, in each breath we take,  
+We find our true selves, with every step we make.  
+#70: KISS, K I S S.
+#71: COAT, C O A T.
+#72: QUEEN, Q U E E N.
+#73: GAME, G A M E.
+#74: CURE, C U R E.
+#75: CLUE, C L U E.
+#76: COACH, C O A C H.
+#77: COOK, C O O K.
+#78: CAVE, C A V E.
+#79: COWBOY, C O W B O Y.
+
+#80 To #89.
+With a brave **face**, we step into the light,  
+Prepared for the **fight**, ready for what’s right.  
+In the dance of **fun**, where laughter ignites,  
+We chase fleeting **fame** through our wild, starry nights.  
+The warmth of the **fire** draws stories so near,  
+Yet lurking within is the heart of a **fool**—  
+Casting lines like a **fish** in the depths of despair,  
+Searching for solace in the thick, rolling **fog**.  
+The sound of the **fife** plays a tune from the past,  
+Echoing dreams that we long to outlast.  
+Yet among the bright crowd, a charming **fop** stands,  
+With flair and a smile, making light of our plans.  
+In the tapestry woven from moments we share,  
+We find strength in our laughter, a bond we declare. 
+#80: FACE, F A C E. 
+#81: FIGHT, F I G H T.
+#82: FUN, F U N.
+#83: FAME, F A M E.
+#84: FIRE, F I R E.
+#85: FOOL, F O O L.
+#86: FISH, F I S H.
+#87: FOG, F O G.
+#88: FIFE, F I F E.
+#89: FOP, F O P.
+#90: PEACE, P E A C E.
+
+#90 To #99.
+With a steady **pace**, I wander through the day,  
+Admiring the **beauty** that life tends to display.  
+In the hands of the strong, a **weapon** can harm,  
+But kindness and love hold a far greater charm.  
+A lonely **bum** on the street sings a tune,  
+Dreaming of **power** beneath the bright moon.  
+While the **bill** of the past weighs heavy and tight,  
+Hope flickers gently, igniting the night.  
+Turning the **page** of a story well-worn,  
+I find a sweet moment, like dew on the corn.  
+A little **buggy** rolls by, laughter rings clear,  
+Like a buzzing **beehive**, where joy draws us near.  
+In the arms of a **baby**, the world feels anew,  
+With innocence shining, and skies ever blue.  
+For in every heartbeat, each whisper and sigh,  
+Life dances around us, a sweet lullaby.  
+#91: BEAUTY, B E A U T Y.
+#92: WEAPON, W E A P O N.
+#93: BUM, B U M.
+#94: POWER, P O W E R.
+#95: BILL, B I L L.
+#96: PAGE, P A G E.
+#97: BUGGY, B U G G Y.
+#98: BEEHIVE, B E E H I V E.
+#99: BABY, B A B Y.
+
+#100 To #109.
+In the shadows of **disease**, hope flickers and fades,  
+Yet through clinking **toast**, we find solace in shades.  
+Each **design** of our lives is a canvas we paint,  
+Though echoes of **dismissal** can feel far from quaint.  
+In a vast **desert**, where the sun scorches bright,  
+A **tussle** of spirits takes flight in the night.  
+Every **decision** weighs heavy, yet leads us to grow,  
+As we gather at the **desk**, crafting paths that we sow.  
+But beware of the **deceiver**, who lurks in the light,  
+Whispering falsehoods that cloud what is right.  
+In the grip of **dyspepsia**, we churn with unease,  
+Yet resilience will guide us, like a soft, gentle breeze.  
+For in every struggle, there's strength to be found,  
+With love as our anchor, we rise from the ground.  
+#100: DISEASE, D I S E A S E.
+#101: TOAST, T O A S T.
+#102: DESIGN, D E S I G N.
+#103: DISMISSAL, D I S M I S S A L.
+#104: DESERT, D E S E R T.
+#105: TUSSLE, T U S S L E.
+#106: DECISION, D E C I S I O N.
+#107: DESK, D E S K.
+#108: DECEIVER, D E C E I V E R.
+#109: DYSPEPSIA, D Y S P E P S I A.
+
+#110 To #119.
+In shimmering **tights**, she twirls with delight,  
+A proud **teetotaler**, embracing the night.  
+With whispers of the **Titanic**, a tale to be told,  
+Of dreams lost at sea and treasures of gold.  
+A sparkling **diadem** rests atop her fine head,  
+Reflecting the hopes of the stories she’s read.  
+An **editor** crafts words with a delicate hand,  
+Weaving through chapters like grains of fine sand.  
+Yet there’s always a **dawdler**, drifting through time,  
+Missing the moments, lost in the rhyme.  
+While a wise **dietician** shares wisdom anew,  
+On nourishing choices, both healthy and true.  
+A keen **detective** with eyes sharp and bright,  
+Uncovers the secrets hidden from sight.  
+By the pond, where the **toad-frog** leaps high,  
+Nature sings softly beneath the blue sky.  
+With a **toothpick** in hand, we savor the feast,  
+As laughter and stories bring joy to the least.  
+In this dance of our lives, where dreams intertwine,  
+We find beauty in moments, both simple and fine.  
+#110: TIGHTS, T I G H T S.
+#111: TEETOTALER, T E E T O T A L E R.
+#112: TITANIC, T I T A N I C.
+#113: DIADEM, D I A D E M.
+#114: EDITOR, E D I T O R.
+#115: DAWDLER, D A W D L E R.
+#116: DIETICIAN, D I E T I C I A N.
+#117: DETECTIVE, D E T E C T I V E.
+#118: TOAD-FROG, T O A D- F R O G.
+#119: TOOTHPICK, T O O T H P I C K.
+
+#120 To #129.
+Beneath the moonlight, we **dance** with our dreams,  
+In a cozy **tent**, where laughter brightly beams.  
+A friendly **tenant** joins in with glee,  
+As we spark joy like **dynamite**, wild and free.  
+Gathered for **dinner**, the table is set,  
+With stories and laughter, a night we won't forget.  
+We weave through a **tunnel** of shadows and light,  
+Where adventures await, thrilling and bright.  
+In the depths of the **dungeon**, where echoes reside,  
+We find hidden treasures, secrets to confide.  
+A sturdy **tank** stands guard, resolute and proud,  
+Protecting our dreams from the noise of the crowd.  
+With **tinfoil** in hand, we wrap up the night,  
+Preserving the memories that sparkle so bright.  
+On the soft **tanbark**, we sit side by side,  
+Embracing the magic that life has supplied.  
+#120: DANCE, D A N C E.
+#121: TENT, T E N T.
+#122: TENANT, T E N A N T.
+#123: DYNAMITE, D Y N A M I T E.
+#124: DINNER, D I N N E R.
+#125: TUNNEL, T U N N E L.
+#126: DUNGEON, D U N G E O N.
+#127: TANK, T A N K.
+#128: TINFOIL, T I N F O I L.
+#129: TANBARK, T A N B A R K.
+
+#130 To #139.
+Beneath the old **tombstone**, where silence does dwell,  
+Whispers of stories are cast in a spell.  
+In the shadows, a **dumbwaiter** carries dreams,  
+From floor to floor, where laughter still beams.  
+A shimmering **diamond** reflects in the light,  
+While memories gather, both tender and bright.  
+At the quaint **dime-museum**, oddities show,  
+Each artifact telling a tale from long ago.  
+Yet life isn’t perfect; there’s always a **demerit**,  
+Moments of folly that we can’t help but inherit.  
+As we savor the warmth of a spicy **tamale**,  
+We share in the laughter, both hearty and gay.  
+A sturdy **demijohn** holds spirits and cheer,  
+While tales of the past echo clear in our ear.  
+With a **tomahawk** in hand, we honor the brave,  
+Remembering legends and the paths they pave.  
+Though **tomfoolery** might lighten the weight,  
+In the heart of the **temple**, we contemplate fate.  
+For in every moment, both joyous and grim,  
+We find our connection, our spirits in hymn. 
+#130: TOMBSTONE, T O M B S T O N E.
+#131: DUMBWAITER, D U M B W A I T E R.
+#132: DIAMOND, D I A M O N D.
+#133: DIME-MUSEUM, D I M E- M U S E U M.
+#134: DEMERIT, D E M E R I T.
+#135: TAMALE, T A M A L E.
+#136: DEMIJOHN, D E M I J O H N.
+#137: TOMAHAWK, T O M A H A W K.
+#138: TOMFOOLERY, T O M F O O L E R Y.
+#139: TEMPLE, T E M P L E.
+
+#140 To #149.
+A wandering **tourist** steps into the sun,  
+Eager for a **treat**, a sweet taste of fun.  
+As they stroll through the city, past every **trench**,  
+Curiosity piques, senses ready to clench.  
+With a **thermometer** held, checking warmth of the day,  
+Yet beneath the bright surface, **terrorism** may sway.  
+They hop on a **trolley**, its wheels spinning round,  
+Exploring the treasures that the world has found.  
+In the **treasury** of stories, history flows,  
+While caution is needed, as the danger still grows.  
+Like a hidden **drug**, that promises thrill,  
+But carries a weight that can burden the will.  
+Among the crowds, a **dwarf** stands with pride,  
+Sharing his tales, letting laughter be his guide.  
+Yet whispers of shadows loom close like a **torpedo**,  
+Reminding us all of the paths we must go.  
+In the dance of the city, where dreams intertwine,  
+We find hope in the laughter, a life so divine.   
+#140: TOURIST, T O U R I S T.
+#141: TREAT, T R E A T.
+#142: TRENCH, T R E N C H.
+#143: THERMOMETER, T H E R M O M E T E R.
+#144: TERRORISM, T E R R O R I S M.
+#145: TROLLEY, T R O L L E Y.
+#146: TREASURY, T R E A S U R Y.
+#147: DRUG, D R U G.
+#148: DWARF, D W A R F.
+#149: TORPEDO, T O R P E D O.
+
+#150 To #159.
+Through the **telescope**, I gaze at the night,  
+As **twilight** descends, painting skies with soft light.  
+Each star holds a **talent**, a story to share,  
+Whispers of wisdom, like pages from the **Talmud**'s care.  
+With dreams worth a **dollar**, I chase after fate,  
+Finding strength in the tales of **Delilah**, the great.  
+But when storms gather close, like a fierce **deluge**,  
+I seek shelter in words, a comforting refuge.  
+A **telegram** arrives, with news from afar,  
+Bringing hope and connection, like light from a star.  
+In the art of **delivery**, each message is sent,  
+Bridging the distance, where hearts can lament.  
+With a spark of **telepathy**, we share thoughts unspoken,  
+In the silence of night, our bonds remain unbroken.  
+For in every moment, in the stars up above,  
+We find our way back, through the power of love.  
+#150: TELESCOPE, T E L E S C O P E.
+#151: TWILIGHT, T W I L I G H T.
+#152: TALENT, T A L E N T.
+#153: TALMUD, T A L M U D.
+#154: DOLLAR, D O L L A R.
+#155: DELILAH, D E L I L A H.
+#156: DELUGE, D E L U G E.
+#157: TELEGRAM, T E L E G R A M.
+#158: DELIVERY, D E L I V E R Y.
+#159: TELEPATHY, T E L E P A T H Y.
+
+#160 To #169.
+In the quiet of **ditches**, where wildflowers grow,  
+A **touchdown** of sunlight begins to bestow.  
+Yet shadows can linger, where souls may **degenerate**,  
+Caught in the webs of an unseen fate.  
+An **attachment** to dreams that we hold oh so dear,  
+Guided by a **teacher** whose voice we can hear.  
+In the whispers of **Deutschland**, tales travel far,  
+Through echoes of laughter, like light from a star.  
+The hum of the **dishwasher** fills up the night,  
+While **dejection** may knock, dimming spirits so bright.  
+Yet amidst the bleakness, a **ditch-flower** blooms,  
+Defying the odds, breaking free from the gloom.  
+On the **dashboard** of life, where the journey unfolds,  
+We navigate curves with our stories retold.  
+For in every struggle, through joy and through strife,  
+We find strength in the moments that shape our life.  
+#160: DITCHES, D I T C H E S.
+#161: TOUCHDOWN, T O U C H D O W N.
+#162: DEGENERATE, D E G E N E R A T E.
+#163: ATTACHMENT, A T T A C H M E N T.
+#164: TEACHER, T E A C H E R.
+#165: DEUTSCHLAND, D E U T S C H L A N D.
+#166: DISHWASHER, D I S H W A S H E R.
+#167: DEJECTION, D E J E C T I O N.
+#168: DITCH-FLOWER, D I T C H- F L O W E R.
+#169: DASHBOARD, D A S H B O A R D.
+
+#170 To #179.
+In the quiet of the shop, a **taxidermist** works,  
+Crafting memories of life with delicate quirks.  
+With a **dictaphone** humming, he records every tale,  
+While shadows of history weave through the veil.  
+A steady **deacon** speaks of faith and of trust,  
+Guiding the lost with a heart that won’t rust.  
+Each **document** whispers of moments now past,  
+While the **ticker** of time counts each heartbeat so fast.  
+A bold **declaration** rings clear in the air,  
+Echoing dreams that the brave dare to share.  
+In the pages of a **dictionary**, wisdom abounds,  
+With words that can heal, yet leave scars in their sounds.  
+A fragrant **decoction** brews slowly in light,  
+Infusing the room with warmth, calm, and delight.  
+At a lively **talkfest**, ideas collide,  
+As laughter and voices swirl side by side.  
+But lurking beneath, a shadow of fate,  
+The fear of **decapitation**, a cruel twist of state.  
+Yet in every heartbeat, in moments we weave,  
+We find strength in our stories, the power to believe.
+#170: TAXIDEMIST, T A X I D E M I S T.  
+#171: DICTAPHONE, D I C T A P H O N E.
+#172: DEACON, D E A C O N.
+#173: DOCUMENT, D O C U M E N T.
+#174: TICKER, T I C K E R.
+#175: DECLARATION, D E C L A R A T I O N.
+#176: DICTIONARY, D I C T I O N A R Y.
+#177: DECOCTION, D E C O C T I O N.
+#178: TALKFEST, T A L K F E S T.
+#179: DECAPITATION, D E C A P I T A T I O N.
+
+#180 To #189.
+In the wake of **devastation**, hearts heavy with pain,  
+A spirit **defends** the hope that still remains.  
+In the quest for **divinity**, we search for the light,  
+Yet shadows of **defamation** can cloud what feels right.  
+With whispers of **divorce**, promises left behind,  
+The weight of a **devil** can twist and unwind.  
+Through the lens of **Dimson**, we ponder our fate,  
+While **Decurtis** stands firm, a voice that won’t wait.  
+Amidst the chaos, a **taffy-vendor** calls,  
+With sweets to sweeten the bitterest brawls.  
+At a lively **dove-party**, where laughter takes flight,  
+We gather together, embracing the night.  
+For in every struggle, through trials we face,  
+We find strength in our stories, our shared human grace.  
+And though storms may come and shadows may fall,  
+Love binds us together, through it all.  
+#180: DEVASTATION, D E V A S T A T I O N.
+#181: DEFENDS, D E F E N D S.
+#182: DIVINITY, D I V I N I T Y.
+#183: DEFAMATION, D E F A M A T I O N.
+#184: DIVORCE, D I V O R C E.
+#185: DEVIL, D E V I L.
+#186: DIMSON, D I M S O N.
+#187: DECURTIS, D E C U R T I S.
+#188: TAFFY-VENDOR, T A F F Y- V E N D O R.
+#189: DOVE-PARTY, D O V E- P A R T Y.
+
+#190 To #199.
+With a splash of **Tabasco**, the flavors ignite,  
+In the warmth of a **teapot**, where friends gather tight.  
+For the laughter of **dependents** fills up the room,  
+As stories unfurl, dispelling the gloom.  
+The ship's **topmast** sways gently in the breeze,  
+While a **typewriter** clicks, crafting words with ease.  
+Gathered around a sturdy **table**, we share,  
+Moments of joy, our burdens laid bare.  
+Yet beneath the veneer, whispers of **debauchery**,  
+Remind us of nights steeped in reckless folly.  
+A **toboggan** awaits at the crest of the hill,  
+Ready for laughter and thrills that fulfill.  
+From the **top-floor**, we gaze at the world down below,  
+With **top-boots** laced tight, we’re ready to go.  
+For in every adventure, both wild and serene,  
+We find joy in connection, where hearts can convene.
+#190: TOBASCO, T O B A S C O.
+#191: TEAPOT, T E A P O T.
+#192: DEPENDENTS, D E P E N D E N T S.
+#193: TOPMAST, T O P M A S T.
+#194: TYPEWRITER, T Y P E W R I T E R.
+#195: TABLE, T A B L E.
+#196: DEBAUCHERY, D E B A U C H E R Y.
+#197: TOBOGGAN, T O B O G G A N.
+#198: TOP-FLOOR, T O P- F L O O R.
+#199: TOP-BOOTS, T O P- B O O T S.
+
+#200 To #209.
+In the whispers of time, an **ancestor** calls,  
+Sharing secrets and stories through ancient stone walls.  
+A **nostrum** of wisdom, a remedy found,  
+To heal the deep wounds that linger around.  
+Beneath the bright sky, an **incinerator** burns,  
+Turning old memories to ash as life turns.  
+A **hansom** cab rattles down cobblestone lanes,  
+Carrying tales of **insurgents** with bold, fierce refrains.  
+The **nozzle** of a hose sprays life on the ground,  
+In gardens of hope where new dreams are found.  
+An **incision** so careful, a surgeon's precise art,  
+Restores what is broken, mending the heart.  
+An **insect** flutters by, dancing on air,  
+A reminder of nature’s intricate care.  
+Yet, in the shadows, lies **incivility's** stain,  
+A challenge we face, a reminder of pain.  
+With ink and with paper, a **newspaper** unfolds,  
+Documenting stories both tender and bold.  
+For in every moment, through history's lens,  
+We find threads of connection that never truly ends.    
+#200: ANCESTOR, A N C E S T O R.
+#201: NOSTRUM, N O S T R U M.
+#202: INCINERATOR, I N C I N E R A T O R.
+#203: HANSOM, H A N S O M.
+#204: INSURGENT, I N S U R G E N T.
+#205: NOZZLE, N O Z Z L E.
+#206: INCISION, I N C I S I O N.
+#207: INSECT, I N S E C T.
+#208: INCIVILITY, I N C I V I L I T Y.
+#209: NEWSPAPER, N E W S P A P E R.
+
+#210 To #219.
+In the quiet of the woods, among the fallen **nuts**,  
+Nature's bounty awakens, where beauty struts.  
+In the soft glow of **nudity**, the earth lays bare,  
+An **entente** of life, a bond that we share.  
+Through the lens of **anatomy**, we study and learn,  
+In the depths of **winter**, the seasons take their turn.  
+With a **needle** and thread, we stitch stories anew,  
+Mending the fabric of life, both tender and true.  
+Yet whispers of **indigestion** can cloud the bright day,  
+As worries and burdens may lead us astray.  
+But the sweet song of the **nightingale** breaks through the night,  
+Its melody soaring, bringing hope to the light.  
+A **native** to the land, I find solace and peace,  
+In the dance of the leaves, where all troubles cease.  
+From the **antipodes**, where the sun sets and rises,  
+We weave together a tapestry of surprises.  
+#210: NUTS, N U T S.
+#211: NUDITY, N U D I T Y.
+#212: ENTENTE, E N T E N T E.
+#213: ANATOMY, A N A T O M Y.
+#214: WINTER, W I N T E R.
+#215: NEEDLE, N E E D L E.
+#216: INDIGESTION, I N D I G E S T I O N.
+#217: NIGHTINGALE, N I G H T I N G A L E.
+#218: NATIVE, N A T I V E.
+#219: ANTIPODES, A N T I P O D E S.
+
+#220 To #229.
+In the realm of **nonsense**, where dreams intertwine,  
+A laughter erupts at the stroke of **noontime**.  
+Among the chatter, a **nonentity** sways,  
+Invisible yet present in so many ways.  
+A **non-American** tale echoes through the air,  
+Stories of cultures, woven with care.  
+At the quiet **nunnery**, peace softly glows,  
+Where the heart finds solace in the rhythm it knows.  
+With stars of a **nonillion** glimmering bright,  
+Endless wonders sparkle in the depths of the night.  
+A wise **nonagenarian**, with wisdom to share,  
+Recalls the laughter, the love, and the care.  
+Yet amidst the gatherings, a **nincompoop** plays,  
+Spreading their folly in whimsical ways.  
+With shadows of **nonfeasance**, duties might drift,  
+Yet laughter remains as the ultimate gift.  
+In a world that’s **nonpareil**, so vibrant and free,  
+We embrace every moment, just you and me.  
+For in the dance of life, with its twists and its turns,  
+We find joy in the nonsense, where our spirit still yearns. 
+#220: NONSENSE, N O N S E N S E.
+#221: NOONTIME, N O O N T I M E.
+#222: NONENTITY, N O N E N T I T Y.
+#223: NON-AMERICAN, N O N- A M E R I C A N.
+#224: NUNNERY, N U N N E R Y.
+#225: NONILLION, N O N I L L I O N.
+#226: NONAGENARIAN, N O N A G E N A R I A N.
+#227: NINCOMPOOP, N I N C O M P O O P.
+#228: NONFEASANCE, N O N F E A S A N C E.
+#229: NONPAREIL, N O N P A R E I L.
+
+#230 To #239.
+In the heart of a **numbskull**, ideas lie still,  
+A restless **inmate** in a world lacking thrill.  
+Yet dreams of a **honeymoon** whisper with grace,  
+Promises of laughter, a warm, tender place.  
+With the art of a **name-maker**, identities bloom,  
+In the dance of **enumeration**, dispelling the gloom.  
+Like layers of **enamel** that shine and protect,  
+We craft our own stories, each moment perfect.  
+In the burst of **animation**, life starts to sway,  
+Colors collide as shadows fade away.  
+Yet beneath the surface, feelings can feel **anemic**,  
+Yearning for warmth in a world so scenic.  
+A playful **nymph** flits through the glades,  
+In the light of the **nimbus**, where sunlight cascades.  
+For in the tapestry of life, with its highs and its lows,  
+We find joy in the journey, where true beauty grows.
+#230: NUMBSKULL, N U M B S K U L L.
+#231: INMATE, I N M A T E.
+#232: HONEYMOON, H O N E Y M O O N.
+#233: NAME-MAKER, N A M E- M A K E R.
+#234: ENUMERATION, E N U M E R A T I O N.
+#235: ENAMEL, E N A M E L.
+#236: ANIMATION, A N I M A T I O N.
+#237: ANEMIC, A N E M I C.
+#238: NYMPH, N Y M P H.
+#239: NIMBUS, N I M B U S.
+
+#240 To #249.
+In the shadow of **inheritance**, we gather and wait,  
+The weight of **nearness** draws us, binding our fate.  
+Within the room's stillness, an **enormity** looms,  
+Echoing dreams and regrets, as silence consumes.  
+An **honorarium** offered for stories once shared,  
+In the heart of the gathering, all voices declared.  
+With **enrolment** in memories, we pledge to stay true,  
+To the lessons we've learned and the paths we pursue.  
+With each pulse of **energy**, a new spark ignites,  
+In the dance of the moment, we banish the nights.  
+Yet beneath the bravado, an **anarchist** sighs,  
+Questioning structures beneath painted skies.  
+As **nervousness** mingles with laughter and tears,  
+We embrace the uncertainties, confronting our fears.  
+In whispers of **neuropathy**, shadows may creep,  
+But we stand united, our promises deep.  
+For in every connection, in struggles we find,  
+A tapestry woven of heart and of mind.  
+Together we rise, through the storm and the calm,  
+In the embrace of our stories, we nurture the balm. 
+#240:  NURSE,  N U R S E.
+#241: INHERITANCE, I N H E R I T A N C E.
+#242: NEARNESS, N E A R N E S S.
+#243: ENORMITY, E N O R M I T Y.
+#244: HONORARIUM, H O N O R A R I U M.
+#245: ENROLMENT, E N R O L M E N T.
+#246: ENERGY, E N E R G Y.
+#247: ANARCHIST, A N A R C H I S T.
+#248: NERVOUSNESS, N E R V O U S N E S S.
+#249: NEUROPATHY, N E U R O P A T H Y.
+
+#250 To #259.
+In the depths of **analysis**, truths start to unfold,  
+A journey of **enlightenment**, where wisdom is gold.  
+With the vibrance of **aniline**, colors come alive,  
+Painting the canvas of life, where hopes and dreams thrive.  
+Yet the whispers of **annulment** echo through the air,  
+As relationships fray, leaving shadows of care.  
+In the heart of **enlargement**, we seek to expand,  
+To embrace all the moments that life has planned.  
+From the shores of **Honolulu**, where the ocean greets the sun,  
+To the tales of **annihilation**, where battles are won.  
+An **onlooker** stands silent, watching the play,  
+As the drama of life unfolds day by day.  
+Through **nullification**, we clear out the noise,  
+Reclaiming our power, rediscovering joys.  
+With a **nailbrush** in hand, we tidy the past,  
+Preparing for futures, vibrant and vast.  
+For in every journey, through struggle and strife,  
+We find the connections that nourish our life.  
+With colors and stories, we paint our own way,  
+In the tapestry of moments, we choose to stay.      
+#250: ANAYLYSIS, A N A Y L Y S I S.
+#251: ENLIGHTENMENT, E N L I G H T E N M E N T.
+#252: ANILINE, A N I L I N E.
+#253: ANNULMENT, A N N U L M E N T.
+#254: ENLARGEMENT, E N L A R G E M E N T.
+#255: HONOLULU, H O N O L U L U.
+#256: ANNIHILATION, A N N I H I L A T I O N.
+#257: ONLOOKER, O N L O O K E R.
+#258: NULLIFICATION, N U L L I F I C A T I O N.
+#259: NAILBRUSH, N A I L B R U S H.
+
+#260 To #269.
+In the shadows of **injustice**, where silence prevails,  
+We rise with **initiative**, our spirit unveils.  
+With **notions** of justice that burn like a flame,  
+We gather our courage, refusing to tame.  
+A **henchman** of doubt may linger nearby,  
+Yet we’ll stand together, our heads held high.  
+With the strength of **insurance**, we shield our heart’s quest,  
+Finding solace in hope, knowing we’re blessed.  
+An **angel** appears in the darkest of nights,  
+Guiding our journey, igniting our fights.  
+Through **initiation**, we learn to embrace,  
+The trials and triumphs that shape our own space.  
+An **injection** of courage fuels dreams we hold dear,  
+As we savor the moments, casting aside fear.  
+Like **anchovies** packed in a tin, we unite,  
+Finding flavor in struggle, a banquet of light.  
+In the tale of the **hunchback**, we find strength anew,  
+For beauty in difference paints life’s vibrant view.  
+Together we forge through the storms and the strife,  
+In the tapestry woven, we celebrate life.  
+#260: INJUSTICE, I N J U S T I C E.
+#261: INITIATIVE, I N I T I A T I V E.
+#262: NOTIONS, N O T I O N S.
+#263: HENCHMAN, H E N C H M A N.
+#264: INSURANCE, I N S U R A N C E.
+#265: ANGEL, A N G E L.
+#266: INITIATION, I N I T I A T I O N.
+#267: INJECTION, I N J E C T I O N.
+#268: ANCHOVIES, A N C H O V I E S.
+#269: HUNCHBACK, H U N C H B A C K.
+
+#270 To #279.
+In the realm of **inquisition**, where questions take flight,  
+A **knockout** of silence breaks into the night.  
+With an ancient **incantation**, we call on the past,  
+Seeking the wisdom that shadows have cast.  
+The **incumbent** of sorrow stands firm in the rain,  
+While voices once hushed now rise through the pain.  
+With every **negro** anthem that echoes the fight,  
+We reclaim our stories, igniting the light.  
+A shining **nickel** may seem small and unclaimed,  
+But worth isn’t measured by fortune or fame.  
+In this **engagement**, our spirits unite,  
+Together we’ll march toward a future so bright.  
+Amidst the **hangings** of fears that once bound,  
+We sever the chains that kept us spellbound.  
+Through the weight of a **hangover**, we rise and we stand,  
+Turning our trials into strength, hand in hand.  
+In the warmth of an **incubator**, new life begins,  
+A testament to courage, where resilience wins.  
+For through all the struggles, the losses, the gains,  
+We weave a tapestry where hope ever reigns.  
+#270: INQUISTION, I N Q U I S T I O N.
+#271: KNOCKOUT, K N O C K O U T.
+#272: INCANTATION, I N C A N T A T I O N.
+#273: INCUMBENT, I N C U M B E N T.
+#274: NEGRO, N E G R O.
+#275: NICKEL, N I C K E L.
+#276: ENGAGEENT, E N G A G E E N T.
+#277: HANGINGS, H A N G I N G S.
+#278: HANGOVER, H A N G O V E R.
+#279: INCUBATOR, I N C U B A T O R.
+
+#280 To #289.
+In the heart of a **novice**, where learning begins,  
+Facing the **infidel** doubts that whisper within.  
+The mind of an **inventor**, crafting dreams in the dark,  
+Navigates the **unfamiliarity**, igniting the spark.  
+In the halls of the **university**, knowledge takes flight,  
+Ideas like **novels**, unfolding in light.  
+Yet shadows of **invasion** creep close to the shore,  
+As we strive to protect what we cherish and adore.  
+With each **invocation**, we call on the past,  
+Summoning strength that forever will last.  
+In the chaos of a **knife-fight**, where shadows entwine,  
+We stand firm and steady, our spirits align.  
+Yet amidst the struggle, there's a risk of **enfeeblement**,  
+A quiet reminder of life’s true impediment.  
+But through trials and challenges, we learn and we grow,  
+In the tapestry of courage, our resilience will show.  
+#280: NOVICE, N O V I C E.
+#281: INFIDEL, I N F I D E L.
+#282: INVENTOR, I N V E N T O R.
+#283: UNFAMILIARITY, U N F A M I L I A R I T Y.
+#284: UNIVERSITY, U N I V E R S I T Y.
+#285: NOVEL, N O V E L.
+#286: INVASION, I N V A S I O N.
+#287: INVOCATION, I N V O C A T I O N.
+#288: KNIFE-FIGHT, K N I F E- F I G H T.
+#289: ENFEEBLEMENT, E N F E E B L E M E N T.
+
+#290 To #299.
+With a **knapsack** slung over my weary back,  
+I wander the trails where **nobody** looks,  
+In a world filled with shadows of **unhappiness**,  
+Searching for light in forgotten nooks.  
+With dreams **unhampered**, I tread on with grace,  
+A **neighbor** of hope, in this vast, open space.  
+The echoes of **nobility** whisper in the breeze,  
+As I yearn for a heart that finds rest and peace.  
+Amidst the soft whispers of **nuptials** near,  
+A celebration of love, where joy conquers fear.  
+I reach for a **napkin** to wipe away tears,  
+For the laughter of friends outweighs all the fears.  
+On roads **unpaved**, my journey unfolds,  
+Each step a story, with adventures untold.  
+I dream of a future, a life fit for a **nabob**,  
+Where kindness and courage are the greatest of jobs.  
+So I carry my **knapsack**, a heart full of cheer,  
+With every new dawn, I embrace what is dear.  
+In the tapestry woven with threads of the past,  
+I find joy in the journey, a love meant to last. 
+#290: KNAPSACK, K N A P S A C K.
+#291: NOBODY, N O B O D Y.
+#292: UNHAPPINESS, U N H A P P I N E S S.
+#293: UNHAMPERED, U N H A M P E R E D.
+#294: NEIGHBOR, N E I G H B O R.
+#295: NOBILITY, N O B I L I T Y.
+#296: NUPTIALS, N U P T I A L S.
+#297: NAPKIN, N A P K I N.
+#298: UNPAVED, U N P A V E D.
+#299: NABOB, N A B O B.
+
+#300 To #309.
+In the quiet of the **almshouse**, stories unfold,  
+Where dreams linger softly, like whispers of old.  
+A man with a **mustache** recalls days gone by,  
+Crafting with care, a true **mason** in life.  
+In the heart of the **museum**, history sings,  
+Artifacts gathered, each telling of things.  
+Yet there lurks a **miser**, hoarding his gold,  
+While the warmth of **muslin** wraps hearts that are cold.  
+With a gentle **massage**, we soothe weary souls,  
+Finding solace together, as laughter consoles.  
+But the buzz of a **mosquito** interrupts the calm,  
+A tiny annoyance that disrupts like a qualm.  
+Among us, a **misfit**, with dreams that soar high,  
+Finding beauty in chaos, reaching for the sky.  
+Yet in the shadow of a **mishap**, we learn to embrace,  
+The lessons of life that time cannot erase.  
+For in every story, both joyous and sad,  
+There’s strength in the journey, a tapestry we’ve had.  
+Through the trials and triumphs, we weave and we mend,  
+In the heart of the **almshouse**, where all stories blend. 
+#300: ALMSHOUSE, A L M S H O U S E.
+#301: MUSTACHE, M U S T A C H E.
+#302: MASON, M A S O N.
+#303: MUSEUM, M U S E U M.
+#304: MISER, M I S E R.
+#305: MUSLIN, M U S L I N.
+#306: MASSAGE, M A S S A G E.
+#307: MOSQUITO, M O S Q U I T O.
+#308: MISFIT, M I S F I T.
+#309: MISHAP, M I S H A P.
+
+#310 To #319.
+On a table of **matzoths**, a feast laid with care,  
+A **matador** dances, his spirit laid bare.  
+With one **mitten** on, he twirls through the night,  
+A **medium** of joy, as shadows take flight.  
+In the warmth of a **mother**, love's gentle embrace,  
+We gather like family, in this sacred space.  
+Each **model** of kindness, a lesson we share,  
+In moments of laughter, we find solace there.  
+Through **mediation**, we bridge every gap,  
+Finding common ground in the heart's gentle map.  
+As the **meeting** unfolds, with stories exchanged,  
+We weave through our lives, where dreams are arranged.  
+The **midwife** of hope brings new beginnings near,  
+Guiding us softly, dispelling our fear.  
+Yet in the attic, the scent of **mothball** remains,  
+A reminder of history, the joy and the pains.  
+So let us embrace both the old and the new,  
+With **matzoths** and memories, we'll journey on through.  
+In the dance of our lives, may love always lead,  
+For in every connection, our spirits are freed.
+#310: MATZOTHS, M A T Z O T H S.
+#311: MATADOR, M A T A D O R.
+#312: MITTEN, M I T T E N.
+#313: MEDIUM, M E D I U M.
+#314: MOTHER, M O T H E R.
+#315: MODEL, M O D E L.
+#316: MEDIATION, M E D I A T I O N.
+#317: MEETING, M E E T I N G.
+#318: MIDWIFE, M I D W I F E.
+#319: MOTHBALL, M O T H B A L L.
+
+#320 To #329.
+In the town, a **minstrel** plays sweet melodies bright,  
+With a **mandarin** smile, he brings joy to the night.  
+A loyal **minion** follows, with laughter and cheer,  
+Together they dance, spreading warmth far and near.  
+By the grand **monument**, where stories reside,  
+A **minaret** reaches, a beacon of pride.  
+In a heartfelt **monologue**, the past comes alive,  
+Whispers of ages, where dreams still strive.  
+The **menagerie** gathers, a vibrant display,  
+With creatures and wonders, in a colorful fray.  
+A curious **monkey**, with antics so spry,  
+Captures the hearts of the crowd passing by.  
+In the realm of the **manufacturer**, dreams come to form,  
+Crafting inventions that break every norm.  
+Yet in the shadows, there lies a **monopoly**,  
+A tale of ambition, and a fight to be free.  
+So let us sing loud, like the **minstrel** of old,  
+Embracing our stories, both timid and bold.  
+For in every heart lies a spark waiting to soar,  
+Together we rise, forever wanting more.  
+#320: MINSTREL, M I N S T R E L.
+#321: MANDARIN, M A N D A R I N.
+#322: MINION, M I N I O N.
+#323: MONUMENT, M O N U M E N T.
+#324: MINARET, M I N A R E T.
+#325: MONOLOGUE, M O N O L O G U E.
+#326: MENAGERIE, M E N A G E R I E.
+#327: MONKEY, M O N K E Y.
+#328: MANUFACTURER, M A N U F A C T U R E R.
+#329: MONOPOLY, M O N O P O L Y.
+
+#330 To #339.
+In a world of **mimes**, where silence speaks loud,  
+A **mammoth** of memory stands tall in the crowd.  
+Yet **Mammon** whispers of riches and gain,  
+While a **memo-maker** crafts thoughts in the rain.  
+In the pages of **memoirs**, our stories unfold,  
+Each life a unique tale, in whispers retold.  
+From the depths of a **mammal**, instincts arise,  
+As we learn from the past, through laughter and sighs.  
+On a **memo-sheet**, ideas take flight,  
+In a **mimeograph** haze, we chase through the night.  
+From the rhythms of **Memphis**, where music ignites,  
+To the shadows of illness, where **mumps** dim the lights.  
+Yet through every challenge, in sorrow and cheer,  
+We find strength in our voices, our connections made clear.  
+For in the dance of existence, with joy and with strife,  
+We embrace all the moments that shape our true life.  
+#330: MIMES, M I M E S.
+#331: MAMMOTH, M A M M O T H.
+#332: MAMMON, M A M M O N.
+#333: MEMO-MAKER, M E M O- M A K E R.
+#334: MEMOIRS, M E M O I R S.
+#335: MAMMAL, M A M M A L.
+#336: MEMO-SHEET, M E M O- S H E E T.
+#337: MIMEOGRAPH, M I M E O G R A P H.
+#338: MEMPHIS, M E M P H I S.
+#339: MUMPS, M U M P S.
+
+#340 To #349.
+In the depths of the **morass**, where shadows entwine,  
+Whispers of **murder** echo, a tale so malign.  
+As dawn breaks the **morning**, soft light starts to gleam,  
+And a **mermaid** sings sweetly, weaving dreams into stream.  
+In the depths of a **mirror**, reflections confide,  
+With whispers of **morale** that stir deep inside.  
+Yet the **mirage** of hope flickers just out of reach,  
+Like **margarine** spreading on a lesson to teach.  
+With **morphine** to soothe the pain of the night,  
+We chase after solace, yearning for light.  
+In the stillness of **marble**, where memories rest,  
+We carve out our stories, each heart a guest.  
+So through the **morass**, we navigate with care,  
+Facing **murder** of doubts with a courage so rare.  
+In the **morning** that follows the darkest of days,  
+May we find our own paths, in countless new ways.  
+#340: MORASS,  M O R A S S.
+#341: MURDER, M U R D E R.
+#342: MORNING, M O R N I N G.
+#343: MERMAID, M E R M A I D.
+#344: MIRROR, M I R R O R.
+#345: MORALE, M O R A L E.
+#346: MIRAGE, M I R A G E.
+#347: MARGARIN, M A R G A R I N.
+#348: MORPHINE, M O R P H I N E.
+#349: MARBLE, M A R B L E.
+
+#350 To #359.
+In the thick of **molasses**, time moves slow and sweet,  
+Where **mildew** whispers secrets, damp beneath our feet.  
+As we step into a **millennium**, bright with hope,  
+Each **millimeter** matters as we learn to cope.  
+The **miller** hums a tune, grinding grain with care,  
+Turning **molehills** to mountains, with dreams we dare share.  
+With each mile we travel, tracking our **mileage** wide,  
+Through cups of warm **milk**, our worries subside.  
+Yet sometimes we stumble, in life's great **malformation**,  
+Like a word gone awry, a comedic **malaprop** sensation.  
+But through all the laughter, the joy and the strife,  
+We weave our own stories, the fabric of life.  
+So let us embrace both the sweet and the gray,  
+For in every small moment, there's magic at play.  
+From **molasses** to **mildew**, in each twist and turn,  
+In the dance of existence, there's always more to learn.  
+#350: MOLASSES, M O L A S S E S.
+#351: MILDEW, M I L D E W.
+#352: MILLENNIUM, M I L L E N N I U M.
+#353: MILLIMETER, M I L L I M E T E R.
+#354: MILLER, M I L L E R.
+#355: MOLEHILL, M O L E H I L L.
+#356: MILEAGE, M I L E A G E.
+#357: MILK, M I L K.
+#358: MALFORMATION, M A L F O R M A T I O N.
+#359: MALAPROP, M A L A P R O P.
+
+#360 To #369.
+In a quiet room where **matches** ignite,  
+A **midget** of wonder brings dreams to the light.  
+Amidst whirring **machinery**, where wonders unfold,  
+A **mush-melon** sweetness in stories retold.  
+With a **mushroom** that dances in shadows and beams,  
+And **majolica** colors, alive in our dreams.  
+The **magician** weaves spells with a flick of his hand,  
+As the mysteries of **Michigan** sparkle like sand.  
+In the **match-factory**, where sparks start to fly,  
+Each flicker a promise beneath the vast sky.  
+As thoughts in a **mesh-bag** of memories sway,  
+We gather our moments, come what may.  
+So let us create from the magic we find,  
+In the laughter and whispers, in heart and in mind.  
+For life is a canvas, a wondrous display,  
+With **matches** of dreams lighting up every day. 
+#360: MATCHES, M A T C H E S.
+#361: MIDGET, M I D G E T.
+#362: MACHINERY, M A C H I N E R Y.
+#363: MUSH-MELON, M U S H- M E L O N.
+#364: MUSHROOM, M U S H R O O M.
+#365: MAJOLICA, M A J O L I C A.
+#366: MAGICIAN, M A G I C I A N.
+#367: MICHIGAN, M I C H I G A N.
+#368: MATCH-FACTORY, M A T C H- F A C T O R Y.
+#369: MESH-BAG, M E S H- B A G.
+
+#370 To #379.
+In the pages of a **magazine**, stories unfold,  
+Of the noble **Mikado**, with tales of old.  
+A **magnet** for dreams, pulling hearts near,  
+While a wise **mugwump** whispers secrets to hear.  
+Through the lens of a **microscope**, wonders appear,  
+A **mogul** of vision, with ambitions clear.  
+In a **makeshift** world, we patch and we mend,  
+With the song of a **mockingbird** that seems to transcend.  
+A **megaphone** blares, as voices unite,  
+Echoing hopes through the stillness of night.  
+Like **Micawber** who taught us to strive,  
+In the dance of our dreams, we find how to thrive.  
+So let us embrace every moment we find,  
+In the tapestry woven of heart and of mind.  
+For life is a journey, a story to spin,  
+With **magazines** of laughter where our tales begin.
+#370: MAGAZINE, M A G A Z I N E.
+#371: MIKADO, M I K A D O.
+#372: MAGNET, M A G N E T.
+#373: MUGWUMP, M U G W U M P.
+#374: MICROSCOPE, M I C R O S C O P E.
+#375: MOGUL, M O G U L.
+#376: MAKESHIFT, M A K E S H I F T.
+#377: MOCKINGBIRD, M O C K I N G B I R D.
+#378: MEGAPHONE, M E G A P H O N E.
+#379: MICAWBER, M I C A W B E R.
+
+#380 To #389.
+In shadows lurks **Mephistopheles**, sly and bold,  
+Draped in a **mufti**, with secrets untold.  
+A **muffin** warms softly, a comforting sight,  
+In a world of **movement**, where day turns to night.  
+The **maverick** in all of us seeks to break free,  
+Wrapped snug in a **muffler**, as we chase the sea.  
+With a **home-voyage** calling, we pack up our dreams,  
+Loading the **moving-van** with hopes and schemes.  
+For the **movie-fan** hearts beat in sync,  
+Lost in the stories, where thoughts start to wink.  
+Yet beneath all the laughter, the light and the fluff,  
+We find in our journeys, the strength in the **muff**.  
+So here’s to the moments, both grand and discreet,  
+In the dance of our lives, where all paths can meet.  
+From **Mephistopheles** to the warmth of a friend,  
+We cherish the journeys that never quite end.
+#380: MEPHISTOPHELES, M E P H I S T O P H E L E S.
+#381: MUFTI, M U F T I.
+#382: MUFFIN, M U F F I N.
+#383: MOVEMENT, M O V E M E N T.
+#384: MAVERICK, M A V E R I C K.
+#385: MUFFLER, M U F F L E R.
+#386: HOME-VOYAGE, H O M E- V O Y A G E.
+#387: MOVING-VAN, M O V I N G- V A N.
+#388: MOVIE-FAN, M O V I E- F A N.
+#389: MUFF, M U F F
+
+#390 To #399.
+An **ambassador** of dreams walks the path so wide,  
+Through the pain of **amputation**, with hope as his guide.  
+Beside the **embankment**, where rivers flow free,  
+A **mapmaker** sketches the journey to be.  
+The **umpire** of fate calls the shots with precision,  
+In the game of **mobilization**, we act with decision.  
+With fierce **ambition**, we chase after the dawn,  
+Yet amidst the **humbug**, we find strength to carry on.  
+For **impoverishment** may weigh heavy on the soul,  
+But the spirit can rise, finding ways to feel whole.  
+Like a **humpback** that dances beneath the moon's glow,  
+We navigate waters, letting our true selves show.  
+So here’s to the travelers, the dreamers in stride,  
+Through the trials we face, may we always abide.  
+In each twist of the journey, through joy and through strife,  
+We craft our own stories, the essence of life.      
+#390: AMBASSADOR, A M B A S S A D O R.
+#391: AMPUTATION, A M P U T A T I O N.
+#392: EMBANKMENT, E M B A N K M E N T.
+#393: MAPMAKER, M A P M A K E R.
+#394: UMPIRE, U M P I R E.
+#395: MOBILIZATION, M O B I L I Z A T I O N.
+#396: AMBITION, A M B I T I O N.
+#397: HUMBUG, H U M B U G.
+#398: IMPOVERISHMENT, I M P O V E R I S H M E N T.
+#399: HUMPBACK, H U M P B A C K.
+
+#400 To #409.
+In the hush of **resuscitation**, hope finds its breath,  
+As a proud **rooster** heralds the dawn from the depths.  
+A **raisin** of sweetness, in moments we share,  
+In the **resemblance** of laughter, love fills the air.  
+With a **rosary** clasped tight, we whisper our pleas,  
+For a favorable **result**, carried softly on the breeze.  
+The **recessional** echoes, as time starts to sway,  
+In the dance of **resignation**, we let go of the fray.  
+Yet a **receiver** of light waits to catch our dreams,  
+As a **respirator** hums softly, stitching together seams.  
+In the tapestry woven of hope and of grace,  
+We find in our struggles, a sacred embrace.  
+So let us cherish the moments, both tender and bright,  
+For in every heartbeat, we find our own light.  
+Through the cycles of life, both the joy and the pain,  
+We rise in **resuscitation**, and love is our gain.
+#400: RESUSCITATION, R E S U S C I T A T I O N.
+#401: ROOSTER, R O O S T E R.
+#402: RAISIN, R A I S I N.
+#403: RESEMBLANCE, R E S E M B L A N C E.
+#404: ROSARY, R O S A R Y.
+#405: RESULT, R E S U L T.
+#406: RECESSIONAL, R E C E S S I O N A L.
+#407: RESIGNATION, R E S I G N A T I O N.
+#408: RECEIVER, R E C E I V E R.
+#409: RESPIRATOR, R E S P I R A T O R.
+
+#410 To #419.
+In the shadow of **rats**, in alleys they creep,  
+A spirited **redhead** stirs, from her dreams she won't sleep.  
+With a **retainer** in place, she speaks with a grin,  
+Finding beauty in chaos, where new tales begin.  
+Her heart glows like **radium**, lighting the dark,  
+A **reader** of stories, she ignites the spark.  
+In every **riddle**, she finds a new way,  
+As the world spins in **rotation**, both night and day.  
+With thoughts so **radical**, she challenges the norm,  
+Seeking **ratification** in the calm after the storm.  
+In the dance of the cosmos, she finds her own path,  
+As life flows like a river, with joy in its wrath.  
+And along the **Redpath**, where dreams intertwine,  
+She whispers her secrets, both tender and fine.  
+For in every encounter, each moment we share,  
+We weave the connection, a bond rich and rare.
+#410: RATS, R A T S.
+#411: REDHEAD, R E D H E A D.
+#412: RETAINER, R E T A I N E R.
+#413: RADIUM, R A D I U M.
+#414: READER, R E A D E R.
+#415: RIDDLE, R I D D L E.
+#416: ROTATION, R O T A T I O N.
+#417: RADICAL, R A D I C A L.
+#418: RATIFICATION, R A T I F I C A T I O N.
+#419: REDPATH, R E D P A T H.
+
+#420 To #429.
+In shadows of **ransom**, where hope feels so spent,  
+A heart breaks for the **rent** in dreams that were meant.  
+Through **renunciation**, we shed what we know,  
+In search of **renomination**, to rise from the low.  
+The **runner** takes flight, on a path made anew,  
+In the dawn of **renewal**, the world starts to bloom.  
+A **ranch** stretched wide open, beneath the vast skies,  
+Holds whispers of **reincarnation**, where spirit never dies.  
+With each **renovation**, we build from the ground,  
+Transforming our spaces, where solace is found.  
+And after the rain, with the sun's gentle sway,  
+Emerges a **rainbow**, brightening the day.  
+So let us embrace the cycles of life,  
+Through heartache and joy, through struggle and strife.  
+For in every moment, each chapter we pen,  
+We find our own stories, and learn how to mend.
+#420: RANSOM, R A N S O M.
+#421: RENT, R E N T.
+#422: RENUNCIATION, R E N U N C I A T I O N.
+#423: RENOMINATION, R E N O M I N A T I O N.
+#424: RUNNER, R U N N E R.
+#425: RENEWAL, R E N E W A L.
+#426: RANCH, R A N C H.
+#427: REINCARNATION, R E I N C A R N A T I O N.
+#428: RENOVATION, R E N O V A T I O N.
+#429: RAINBOW, R A I N B O W.
+#430: ROOMS, R O O M S.
+
+#430 To #439.
+In the quiet **rooms**, where whispers reside,  
+We seek a **remedy** for the hearts open wide.  
+In the dance of **romance**, sweet feelings ignite,  
+With **remembrances** held close, like stars in the night.  
+A lingering **rumor** floats through the air,  
+Of a love story woven, a tale rare and fair.  
+In the shadow of **Romulus**, a city reborn,  
+We find strength in **remission**, as new hopes are sworn.  
+With a touch of **Remington**, each word strikes a chord,  
+Through the **ramifications** of love, we’re never ignored.  
+In playful **rompers**, we chase after dreams,  
+Finding joy in the laughter, or so it seems.  
+So let’s fill these **rooms** with stories to tell,  
+Of remedies sought, where our hearts feel the swell.  
+For in every moment, both tender and grand,  
+We write our own saga, hand in hand.
+#431: REMEDY, R E M E D Y.
+#432: ROMANCE, R O M A N C E.
+#433: REMEMBRANCES, R E M E M B R A N C E S.
+#434: RUMOR, R U M O R.
+#435: ROMULUS, R O M U L U S.
+#436: REMISSION, R E M I S S I O N.
+#437: REMINGTON, R E M I N G T O N.
+#438: RAMIF1CATIONS, R A M I F1 C A T I O N S.
+#439: ROMPERS, R O M P E R S.
+
+#440 To #449.
+In the dim light of **rehearsal**, where dreams take their form,  
+We gather our voices, a chorus to warm.  
+The **reward** of our labor, the thrill of the stage,  
+As we dance through the scripts, turning each page.  
+With a **rearrangement** of thoughts, our hearts intertwine,  
+In the **wareroom** of wonder, where hopes brightly shine.  
+The **rear-yard** of memories, where laughter once bloomed,  
+In the **ruralness** of moments, sweet joys are resumed.  
+Yet in shadows of **arrearage**, some burdens may cling,  
+While the **rearguard** of silence guards what we bring.  
+Through **rarefaction** of air, we breathe in the scene,  
+A blend of emotions, where we dare to dream.  
+As the warmth of the evening beckons us near,  
+We share a warm **rarebit**, igniting the cheer.  
+In this tapestry woven with threads of our lives,  
+The spirit of creation in each heart thrives.          
+#440: REHEARSAL, R E H E A R S A L.
+#441: REWARD, R E W A R D.
+#442: REARRANGEMENT, R E A R R A N G E M E N T.
+#443: WAREROOM, W A R E R O O M.
+#444: REAR-YARD, R E A R- Y A R D.
+#445: RURALNESS, R U R A L N E S S.
+#446: ARREARAGE, A R R E A R A G E.
+#447: REARGUARD, R E A R G U A R D.
+#448: RAREFACTION, R A R E F A C T I O N.
+#449: RAREBIT, R A R E B I T.
+
+#450 To #459.
+The **rolls** of fate spin softly, like a game of **roulette**,  
+In a world where **reliance** holds us in a net.  
+Within this mystical **realm**, our dreams take flight,  
+Like a **roller** coasting high, through shadows and light.  
+On a journey down the **rail-haul**, we chase distant dreams,  
+Guided by **religion**, and the hope that it redeems.  
+A **relic** of the past whispers tales of old,  
+Of battles fought and victories, in stories bold.  
+Yet in moments of **relief**, we find solace near,  
+While the heart may sometimes face a sudden **relapse** of fear.  
+But through every twist and turn, we embrace the ride,  
+For in the dance of life, there’s beauty deep inside.  
+#450: ROLLS, R O L L S.
+#451: ROULETTE, R O U L E T T E.
+#452: RELIANCE, R E L I A N C E.
+#453: REALM, R E A L M.
+#454: ROLLER, R O L L E R.
+#455: RAIL-HAUL, R A I L- H A U L.
+#456: RELIGION, R E L I G I O N.
+#457: RELIC, R E L I C.
+#458: RELIEF, R E L I E F.
+#459: RELAPSE, R E L A P S E.
+
+#460 To #469.
+In the **register** of dreams, where hopes intertwine,  
+A **ratchet** of ambition turns, forging paths divine.  
+With each careful **ration**, we measure our days,  
+Guided by the **regime** of our intricate ways.  
+A **rasher** of laughter brightens the gloom,  
+As we gather together in a sacred **ritual** room.  
+Yet life’s a **rush-job**, where moments slip by,  
+In the shadows of **rejection**, we learn to comply.  
+But through every challenge, there’s a spark of light,  
+A chance for **rejuvenation**, to rise and take flight.  
+We climb to the **ridgepole**, where dreams come alive,  
+Finding strength in our stories, as we learn to thrive.  
+#460: REGISTER, R E G I S T E R.
+#461: RATCHET, R A T C H E T.
+#462: RATION, R A T I O N.
+#463: REGIME, R E G I M E.
+#464: RASHER, R A S H E R.
+#465: RITUAL, R I T U A L.
+#466: RUSH-JOB, R U S H- J O B.
+#467: REJECTION, R E J E C T I O N.
+#468: REJUVENATION, R E J U V E N A T I O N.
+#469: RIDGEPOLE, R I D G E P O L E.
+
+
+#470 To #479.
+Among the ancient **rocks**, where secrets lie deep,  
+A **rocket** of hope soars, as dreams start to leap.  
+In the **recoalescence** of memories past,  
+A **recommendation** whispers, "Hold tight, love will last."  
+The world keeps a **record** of laughter and tears,  
+As a **recluse** finds solace, embracing their fears.  
+In a **rickshaw**, we wander, through streets filled with grace,  
+Seeking **recognition** in this vast, bustling space.  
+Like the spirit of **Rockefeller**, ambitious and grand,  
+We gather our treasures, as we reach for the land.  
+Yet in the old **ragbag** of life’s many tales,  
+We find beauty in chaos, where love never fails.  
+#470: ROCKS, R O C K S.
+#471: ROCKET, R O C K E T.
+#472: RECOALESCENCE, R E C O A L E S C E N C E.
+#473: RECOMMENDATION, R E C O M M E N D A T I O N.
+#474: RECORD, R E C O R D.
+#475: RECLUSE, R E C L U S E.
+#476: RICKSHAW, R I C K S H A W.
+#477: RECOGNITION, R E C O G N I T I O N.
+#478: ROCKEFELLER, R O C K E F E L L E R.
+#479: RAGBAG, R A G B A G.
+
+#480 To #489.
+Under the **roofs** of dreams, where stories unfold,  
+A **riveter** works magic, crafting tales bold.  
+In the heart of the **refinery**, where hopes are refined,  
+The air carries whispers of what we might find.  
+After the **refumigation**, fresh starts emerge,  
+Like a **refrigerator** stocked with love's warm surge.  
+A **raffle** of chances, we play our part,  
+In a world of **refugees**, we open our heart.  
+With each **revocation** of doubt and despair,  
+A spark of courage **revives** us, lifting the air.  
+Strong as the **roofbeam**, we rise and stand tall,  
+Together we flourish, together we call.  
+#480: ROOFS, R O O F S.
+#481: RIVETER, R I V E T E R.
+#482: REFINERY, R E F I N E R Y.
+#483: REFUMIGATION, R E F U M I G A T I O N.
+#484: REFRIGERATOR, R E F R I G E R A T O R.
+#485: RAFFLE, R A F F L E.
+#486: REFUGEE, R E F U G E E.
+#487: REVOCATION, R E V O C A T I O N.
+#488: REVIVES, R E V I V E S.
+#489: ROOFBEAM, R O O F B E A M.
+
+
+#490 To #499.
+In the quiet of the night, with whispers of **rabs**,  
+A **repeater** echoes tales of dreams and jabs.  
+With a **ribbon** of hope tied around our hearts,  
+We seek **repayment** for kindness, as each day departs.  
+Like **rubber** that stretches, adapting to change,  
+We create a soft **ripple**, where love feels so strange.  
+Yet in the midst of **rubbish**, we find hidden gold,  
+As we face the **rebuke** of the stories retold.  
+Through every **rebuff**, we gather our strength,  
+Building a **republic** of trust, love, and length.  
+Together we rise, united and free,  
+In this dance of life, just you and me
+#490: RABS, R A B S.
+#491: REPEATER, R E P E A T E R.
+#492: RIBBON, R I B B O N.
+#493: REPAYMENT, R E P A Y M E N T.
+#494: RUBBER, R U B B E R.
+#495: RIPPLE, R I P P L E.
+#496: RUBBISH, R U B B I S H.
+#497: REBUKE, R E B U K E.
+#498: REBUFF, R E B U F F.
+#499: REPUBLIC, R E P U B L I C.
+
+#500 To #509.
+In the halls of the **lessees**, where dreams intertwine,  
+Whispers of **Lusitania** echo through time.  
+With a **license** to wander, to seek and to find,  
+We gather at the **lyceum**, where knowledge is kind.  
+Yet in shadows lurks a **loser**, adrift in despair,  
+Searching for solace, for a breath of fresh air.  
+With a spray of **Lysol**, we cleanse all the fears,  
+An **Alsacian** spirit that conquers our tears.  
+As **lacing** our hearts with resilience and grace,  
+We face down **Lucifer**, not backing from space.  
+With a gentle **lisp**, we share our true voice,  
+In this journey of life, we make our own choice.  
+#500: LESSEES, L E S S E E S.
+#501: LUSITANIA, L U S I T A N I A.
+#502: LICENSE, L I C E N S E.
+#503: LYCEUM, L Y C E U M.
+#504: LOSER, L O S E R.
+#505: LYSOL, L Y S O L.
+#506: ALSACIAN, A L S A C I A N.
+#507: LACING, L A C I N G.
+#508: LUCIFER, L U C I F E R.
+#509: LISP, L I S P.
+
+#510 To #519.
+In the shadow of the **lighthouse**, where waves kiss the shore,  
+Guided by the **latitude** of dreams, we seek to explore.  
+A flash of **lightning** ignites the night sky, bold and bright,  
+As we ponder our fate, facing an **ultimatum** with might.  
+Life’s a game of chance, like a fleeting **lottery** draw,  
+With a **ladle** of hope, we serve what we saw.  
+In moments of **laudation**, we rise and we sing,  
+Yet **litigation** reminds us of the burdens we bring.  
+Embracing the **lithe-fulness** of our spirits, we sway,  
+With a **lead-pencil** in hand, we sketch out our way.  
+Through storms and calm, we navigate the sea,  
+Finding our course, forever wild and free.  
+#510: LIGHTHOUSE, L I G H T H O U S E.
+#511: LATITUDE, L A T I T U D E.
+#512: LIGHTNING, L I G H T N I N G.
+#513: ULTIMATUM, U L T I M A T U M.
+#514: LOTTERY, L O T T E R Y.
+#515: LADLE, L A D L E.
+#516: LAUDATION, L A U D A T I O N.
+#517: LITIGATION, L I T I G A T I O N.
+#518: LITHE-FULNESS, L I T H E- F U L N E S S.
+#519: LEAD-PENCIL, L E A D- P E N C I L.
+
+#520 To #529.
+Through the **lens** of time, we cast our gaze,  
+On moments **lent** to us, in a fleeting phase.  
+Soft and cool, the touch of **linen** we admire,  
+As we soothe our aches with soothing **liniment** fire.  
+The **liner** glides on waters wide and deep,  
+While **linoleum** floors beneath our feet softly creep.  
+A humble **lunch** shared, laughter fills the air,  
+Each bite a cherished **link** in memories we share.  
+In a world that feels **law-infested**, tangled and torn,  
+We find solace in kindness, a new day is born.  
+With a **loa-button** to guide us on our way,  
+We navigate life's currents, come what may.  
+#520: LENS, L E N S.
+#521: LENT, L E N T.
+#522: LINEN, L I N E N.
+#523: LINIMENT, L I N I M E N T.
+#524: LINER, L I N E R.
+#525: LINOLEUM, L I N O L E U M.
+#526: LUNCH, L U N C H.
+#527: LINK, L I N K.
+#528: LAW-INFESTED, L A W- I N F E S T E D.
+#529: LOA-BUTTON, L O A- B U T T O N.
+
+#530 To #539.
+In a sleek **limousine**, we glide through the night,  
+As time begins to **limit** our dreams and our flight.  
+Whispers of **lamentations** echo in the air,  
+Yet we find strength as a **lay-member** in this affair.  
+With a playful **limerick**, we lighten our hearts,  
+In the warm glow of the **limelight**, where laughter imparts.  
+Porcelain treasures from **Limoges** grace the scene,  
+Reminders of beauty in moments serene.  
+The **lawmaker** speaks, crafting visions anew,  
+While the **lymph** of our spirit flows steady and true.  
+Beneath the soft glow of a flickering **lamp**,  
+We gather our stories, our hopes, and our plans.
+#530: LIMOUSINE, L I M O U S I N E.
+#531: LIMIT, L I M I T.
+#532: LAMENTATIONS, L A M E N T A T I O N S.
+#533: LAY-MEMBER, L A Y- M E M B E R.
+#534: LIMERICK, L I M E R I C K.
+#535: LIMELIGHT, L I M E L I G H T.
+#536: LIMOGES, L I M O G E S.
+#537: LAWMAKER, L A W M A K E R.
+#538: LYMPH, L Y M P H.
+#539: LAMP, L A M P.
+
+#540 To #549.
+In the quiet of **layers**, where secrets reside,  
+A **larder** holds treasures, both savory and wide.  
+Yet whispers of **laryngitis** echo through the halls,  
+In the **lowermost** chamber, where silence befalls.  
+A **lurer** of dreams, with tales yet untold,  
+We seek the sweet **laurels** that victory holds.  
+With **largesse** of spirit, we dance like a **lark**,  
+In the depths of the night, igniting a spark.  
+From the depths of the earth, a small **larva** stirs,  
+Emerging in time, as the universe whirs.  
+On the **larboard** side, where the stars shine bright,  
+We sail through the shadows, embracing the light.  
+#540: LAYERS, L A Y E R S.
+#541: LARDER, L A R D E R.
+#542: LARYNGITIS, L A R Y N G I T I S.
+#543: LOWERMOST, L O W E R M O S T.
+#544: LURER, L U R E R.
+#545: LAURELS, L A U R E L S.
+#546: LARGESSE, L A R G E S S E.
+#547: LARK, L A R K.
+#548: LARVA, L A R V A.
+#549: LARBOARD, L A R B O A R D.
+
+#550 To #559.
+In the heart of a **Loyalist** dream,  
+A gentle **lilt** weaves through the stream.  
+Amidst the **lowliness** of everyday strife,  
+Stands a figure, **Wilhelmina**, full of life.  
+She calls with a joyful **holler**, so bright,  
+Her grace as **lily-like** as the soft morning light.  
+An **ululation** echoes through valleys and trees,  
+As whispers of hope ride the sweet summer breeze.  
+With a **Yale-lock** of wisdom, she holds her ground,  
+A **lily-finger** reaching for the beauty around.  
+In her hand, a **lollipop**, sweet and pure,  
+A symbol of joy, where love can endure.  
+#550: LOYALIST, L O Y A L I S T.
+#551: LILT, L I L T.
+#552: LOWLINESS, L O W L I N E S S.
+#553: WILHELMINA, W I L H E L M I N A.
+#554: HOLLER, H O L L E R.
+#555: LILY-LIKE, L I L Y- L I K E.
+#556: ULULATION, U L U L A T I O N.
+#557: YALE-LOCK, Y A L E- L O C K.
+#558: LILY-FINGER, L I L Y- F I N G E R.
+#559: LOLLIPOP, L O L L I P O P.
+
+#560 To #569.
+In the halls of **legislation**, where voices blend,  
+A quest for **legitimacy** that we all commend.  
+Among the **legion** of thinkers who gather near,  
+A **lodgment** of ideas, bright and clear.  
+In moments of **leisure**, thoughts gently unwind,  
+Wrapped in a **wool-shawl**, warmth of the mind.  
+The **logician** debates with passion and grace,  
+Through the **lashing** of words, they set the pace.  
+With the strength of **haulage**, they carry their dreams,  
+Each argument crafted, or so it seems.  
+In the light of **legibility**, truth shines so bright,  
+As we strive for a future, guided by right.  
+#560: LEGISLATION, L E G I S L A T I O N.
+#561: LEGITIMACY, L E G I T I M A C Y.
+#562: LEGION, L E G I O N.
+#563: LODGMENT, L O D G M E N T.
+#564: LEISURE, L E I S U R E.
+#565: WOOL-SHAWL, W O O L- S H A W L.
+#566: LOGICIAN, L O G I C I A N.
+#567: LASHING, L A S H I N G.
+#568: HAULAGE- FEE, H A U L A G E-  F E E.
+#569: LEGIBILITY, L E G I B I L I T Y 
+
+#570 To #579.
+In the grand **lexicon** of life, we find our way,  
+Through a sudden **lockout**, where shadows play.  
+In the mirror's **likeness**, we search for the past,  
+A **locomotive** of dreams, rushing forward so fast.  
+With visions of **lucre**, we wander our streets,  
+In every **locality**, where heart and soul meet.  
+We carry our **luggage**, heavy with tales,  
+Draped in warm **leggings**, as we follow the trails.  
+In a cozy **alcove**, where whispers reside,  
+We pen our adventures in a well-worn **logbook**,  
+With stories of laughter and moments of pride,  
+Each page a reminder of the journeys we took.  
+#570: LEXICON, L E X I C O N.
+#571: LOCKOUT, L O C K O U T.
+#572: LIKENESS, L I K E N E S S.
+#573: LOCOMOTIVE, L O C O M O T I V E.
+#574: LUCRE, L U C R E.
+#575: LOCALITY, L O C A L I T Y.
+#576: LUGGAGE, L U G G A G E.
+#577: LEGGINGS, L E G G I N G S.
+#578: ALCOVE, A L C O V E.
+#579: LOGBOOK, L O G B O O K.
+
+#580 To #589.
+In the rustling **leaves**, where whispers take flight,  
+We **lift** our hearts high, embracing the light.  
+With dreams like **leaven**, rising strong and free,  
+Searching for a **life-mate**, a kindred spirit to be.  
+The **liver** of the earth pulses vibrant and bright,  
+In every **level** of being, we seek out the right.  
+In the **lavishness** of nature, we find our place,  
+From distant **Halifax**, the warmth of its grace.  
+With a **levy-fund** of hope, we build our own way,  
+Crafting our stories like letters in the **alphabet**,  
+Each word a reminder, each moment a play,  
+In the grand tale of life, together we’re set.  
+#580: LEAVES, L E A V E S.
+#581: LIFT, L I F T.
+#582: LEAVEN, L E A V E N.
+#583: LIFE-MATE, L I F E- M A T E.
+#584: LIVER, L I V E R.
+#585: LEVEL, L E V E L.
+#586: LAVISHNESS, L A V I S H N E S S.
+#587: HALIFAX, H A L I F A X.
+#588: LEVY-FUND, L E V Y- F U N D.
+#589: ALPHABET, A L P H A B E T.
+
+#590 To #599.
+In the halls where the **lobbyist** sways the debate,  
+A **lapidary** crafts jewels, each gem a true fate.  
+An **albino** rabbit hops gently through dreams,  
+While an **album** of moments unfolds in soft beams.  
+Once, a **leper** sought solace, carrying pain,  
+A **label** of hardship, yet strength to sustain.  
+Through morning's **ablution**, renewal begins,  
+An **alpaca** grazes softly, where stillness wins.  
+With joy like a game of **leapfrog** in play,  
+We dance through the patterns, like **wallpaper**'s display.  
+In colors and stories, our lives intertwine,  
+Each thread a reminder of beauty divine.  
+#590: LOBBYIST, L O B B Y I S T.
+#591: LAPIDARY, L A P I D A R Y.
+#592: ALBINO, A L B I N O.
+#593: ALBUM, A L B U M.
+#594: LEPER, L E P E R.
+#595: LABEL, L A B E L.
+#596: ABLUTION, A B L U T I O N.
+#597: ALPACA, A L P A C A.
+#598: LEAPFROG, L E A P F R O G.
+#599: WALLPAPER, W A L L P A P E R.
+
+#600 To #609.
+On a **chassis** strong, where dreams take flight,  
+A **chestnut** gleams in the soft, golden light.  
+Its **juiciness** beckons, a flavor divine,  
+Like a **chessman** poised, in a game by design.  
+The **chooser** of paths, with each thoughtful move,  
+Wields a **chisel** of fate, carving what we approve.  
+With a graceful **gesture**, a wave to the past,  
+In a world wrapped in **cheesecloth**, memories hold fast.  
+**Joseph** and **Jezebel**, stories untold,  
+Weaving through life, like threads of pure gold.  
+In the tapestry woven, where moments intertwine,  
+Each word, each heart, a treasure divine.  
+#600: CHASSIS, C H A S S I S.
+#601: CHESTNUT, C H E S T N U T.
+#602: JUICINESS, J U I C I N E S S.
+#603: CHESSMAN, C H E S S M A N.
+#604: CHOOSER, C H O O S E R.
+#605: CHISEL, C H I S E L.
+#606: GESTURE, G E S T U R E.
+#607: CHEESECLOTH, C H E E S E C L O T H.
+#608: JOSEPH, J O S E P H.
+#609: JEZEBEL, J E Z E B E L.
+
+#610 To #619.
+In the **chutes** of life, where dreams take flight,  
+A **shutdown** whispers through the still of the night.  
+The **jitney** rolls on, through the streets so alive,  
+Each **shot-mark** a memory, where memories thrive.  
+The **chatterbox** speaks, with stories to share,  
+A **shuttle** of moments, woven with care.  
+In the **agitation** of days that rush by,  
+A **shadowgraph** captures what the heart can't deny.  
+With a **wage-advance**, we chase after time,  
+Finding joy in the simple, in rhythm and rhyme.  
+In the warmth of a **washtub**, with laughter and cheer,  
+We hold close the moments that bring us near.  
+#610: CHUTES, C H U T E S.
+#611: SHUTDOWN, S H U T D O W N.
+#612: JITNEY, J I T N E Y.
+#613: SHOT-MARK, S H O T- M A R K.
+#614: CHATTERBOX, C H A T T E R B O X.
+#615: SHUTTLE, S H U T T L E.
+#616: AGITATION, A G I T A T I O N.
+#617: SHADOWGRAPH, S H A D O W G R A P H.
+#618: WAGE-ADVANCE, W A G E- A D V A N C E.
+#619: WASHTUB, W A S H T U B.
+
+#620 To #629.
+A **genius** walks with grace, a true **gentleman** at heart,  
+With a spirit of **genuineness**, playing a vital part.  
+In the world of **chainmail**, where strength often prevails,  
+The **joiner** crafts connections, as each new bond entails.  
+Through the flowing **channel** of life, we seek to **change**,  
+Finding beauty in the **junk** that the world may rearrange.  
+With a humble **genuflection**, we honor what we know,  
+Like a **June-bug** in the summer, embracing the warm glow.  
+Each moment a treasure, each breath a chance to see,  
+The brilliance in simplicity, where we’re meant to be.  
+#620: GENIUS, G E N I U S.
+#621: GENTLEMAN, G E N T L E M A N.
+#622: GENUINENESS, G E N U I N E N E S S.
+#623: CHAINMAIL, C H A I N M A I L.
+#624: JOINER, J O I N E R.
+#625: CHANNEL, C H A N N E L.
+#626: CHANGE, C H A N G E.
+#627: JUNK, J U N K.
+#628: GENUFLECTION, G E N U F L E C T I O N.
+#629: JUNE-BUG, J U N E- B U G.
+
+#630 To #639.
+In a soft **chemise**, she dances with grace,  
+Through the lines of **geometry**, she finds her place.  
+In the **gymnasium**, echoes of laughter resound,  
+As **Jemima** spins dreams where joy can be found.  
+A lucky **shamrock** glimmers, whispering fate,  
+Like **Ishmael** wandering, searching for great.  
+In his cozy **jimjams**, he dreams of the day,  
+When **gimcrack** ideas will light up his way.  
+Though **shamefaced** at times, we rise from our falls,  
+For within every heart beats a true **champion**'s call.  
+So let us embrace our quirks, our unique ways,  
+And celebrate each moment, in life's bright ballet.  
+#630: CHEMISE, C H E M I S E.
+#631: GEOMETRY, G E O M E T R Y.
+#632: GYMNASIUM, G Y M N A S I U M.
+#633: JEMIMA, J E M I M A.
+#634: SHAMROCK, S H A M R O C K.
+#635: ISHMAEL, I S H M A E L.
+#636: JIMJAMS, J I M J A M S.
+#637: GIMCRACK, G I M C R A C K.
+#638: SHAMEFACED, S H A M E F A C E D.
+#639: CHAMPION, C H A M P I O N.
+
+#640 To #649.
+In the dance of the **gyroscope**, we find our way,  
+Like a steadfast **chariot** on its journey each day.  
+In the pages of a **journal**, stories unfold,  
+Of the **choreman** who toils, both brave and bold.  
+With a **shearer** of dreams, he shapes the new light,  
+Yet beware of the **charlatan**, hiding from sight.  
+Within the sacred **church**, where whispers convene,  
+Lurks the shadow of a **shark**, ever so keen.  
+But fear not the **sheriff**, he rides through the night,  
+With the heart of a **cherub**, he’ll set wrongs to right.  
+So let us embrace each twist in our fate,  
+For in every challenge, we find something great.  
+#640: GYROSCOPE, G Y R O S C O P E.
+#641: CHARIOT, C H A R I O T.
+#642: JOURNAL, J O U R N A L.
+#643: CHOREMAN, C H O R E M A N.
+#644: SHEARER, S H E A R E R.
+#645: CHARLATAN, C H A R L A T A N.
+#646: CHURCH, C H U R C H.
+#647: SHARK, S H A R K.
+#648: SHERIFF, S H E R I F F.
+#649: CHERUB, C H E R U B.
+
+#650 To #659.
+In the depths of **jealousy**, feelings intertwine,  
+Like a **gelatin** mold, we waver and shine.  
+Each **challenge** we face is a test of our heart,  
+Crafted by the hands of a **shell-maker**, an art.  
+Glistening **jewelry** reflects hopes and dreams,  
+While the sun sets softly over **Hialeah**’s beams.  
+In the realms of **geology**, the earth tells its tale,  
+With layers of history, we listen and hail.  
+A forgotten **shilling** lost in time’s endless drift,  
+Like a **jellyfish** floating, it offers a gift.  
+Yet in winter's embrace, a stubborn **chilblain** stays,  
+Reminding us gently of life's tangled ways.  
+#650: JEALOUSY, J E A L O U S Y.
+#651: GELATIN, G E L A T I N.
+#652: CHALLENGE, C H A L L E N G E.
+#653: SHELL-MAKER, S H E L L- M A K E R.
+#654: JEWELRY, J E W E L R Y.
+#655: HIALEAH, H I A L E A H.
+#656: GEOLOGY, G E O L O G Y.
+#657: SHILLING, S H I L L I N G.
+#658: JELLYFISH, J E L L Y F I S H.
+#659: CHILBLAIN, C H I L B L A I N.
+
+#660 To #669.
+In the midst of **wage-issues**, debates intertwine,  
+As we practice our **jyutsu**, seeking balance divine.  
+In the world of the weary, there's a sense of **jejune-ness**,  
+Yet we strive for **judgment**, chasing dreams with finesse.  
+In the crowd, a friendly **josher** shares a laugh,  
+With a **Jewish-looking** smile, he lightens the path.  
+We gather our thoughts in a **chow-chow-jar**,  
+And ride the **choo-choo-car**, where memories are never far.  
+With an **ash-shovel** in hand, we clear out the past,  
+And savor sweet moments, like a **jujube** cast.  
+Through trials and laughter, we navigate this maze,  
+Finding joy in the journey, in so many ways.  
+#660: WAGE-ISSUES, W A G E- I S S U E S.
+#661: JYUTSU, J Y U T S U.
+#662: JEJUNENESS, J E J U N E N E S S.
+#663: JUDGMENT, J U D G M E N T.
+#664: JOSHER, J O S H E R.
+#665: JEWISH-LOOKING, J E W I S H- L O O K I N G.
+#666: CHOW-CHOW-JAR, C H O W- C H O W- J A R.
+#667: CHOO-CHOO-CAR, C H O O- C H O O- C A R.
+#668: ASH-SHOVEL, A S H- S H O V E L.
+#669: JUJUBE, J U J U B E.
+
+#670 To #679.
+In a world like a **jigsaw**, pieces fit and collide,  
+A **shakedown** of hopes, where secrets often hide.  
+Like a timid **chicken**, we tread on the line,  
+With a **cheek-mole** that whispers, “You’ll be just fine.”  
+The **juggernaut** of dreams rolls on, never slow,  
+While a **juggler** of fate keeps the balance aglow.  
+With the force of **ejection**, we rise from the ground,  
+In the heart of **Chicago**, where dreams can be found.  
+Each **shockwave** of laughter, a rhythm that flows,  
+Etching memories deep in our **cheekbone** like prose.  
+Through the twists and the turns, we dance and we play,  
+In this jigsaw of life, we find our own way.  
+#670: JIGSAW, J I G S A W.
+#671: SHAKEDOWN, S H A K E D O W N.
+#672: CHICKEN, C H I C K E N.
+#673: CHEEK-MOLE, C H E E K- M O L E.
+#674: JUGGERNAUT, J U G G E R N A U T.
+#675: JUGGLER, J U G G L E R.
+#676: EJECTION, E J E C T I O N.
+#677: CHICAGO, C H I C A G O.
+#678: SHOCKWAVE, S H O C K W A V E.
+#679: CHEEKBONE, C H E E K B O N E.
+
+#680 To #689.
+**Chauffeurs** on the road, with a steady **shift**,  
+Navigating life’s journey, a challenging gift.  
+In the eyes of the **juvenile**, dreams take their flight,  
+Each small **achievement** sparks a glimmering light.  
+Underneath a **chevron**, we gather our strength,  
+Like a thrown **javelin**, we measure our length.  
+With every **chief-issue**, we learn and we grow,  
+Amidst the **shavings** of doubt that we know.  
+Yet there lies a **chief-foe**, the fear we must face,  
+As we stand as a team, finding courage and grace.  
+In the game of **watch-foo**, we’ll laugh and we’ll cheer,  
+Together we rise, overcoming each fear.  
+#680: CHAUFFEURS, C H A U F F E U R S.
+#681: SHIFT, S H I F T.
+#682: JUVENILE, J U V E N I L E.
+#683: ACHIEVEMENT, A C H I E V E M E N T.
+#684: CHEVRON, C H E V R O N.
+#685: JAVELIN, J A V E L I N.
+#686: CHIEF-ISSUE, C H I E F- I S S U E.
+#687: SHAVINGS, S H A V I N G S.
+#688: CHIEF-FOE, C H I E F - F O E.
+#689: WATCH-FOO, W A T C H- F O O.
+
+#690 To #699.
+In a world where the **gypsy** roams free,  
+Turning the pages of her **chapter** with glee.  
+From the shores of **Japan** to the woods where they play,  
+A lively little **chipmunk** scurries away.  
+With a friendly **chaperon**, the laughter abounds,  
+As they watch the grace of **Chaplin** astound.  
+In a bustling town, there’s a **cheapjack** nearby,  
+With trinkets and treasures that catch the eye.  
+The **shopkeeper** smiles, a warmth in his heart,  
+In the quiet **sheepfold**, where the day starts to part.  
+And as the sun sets, the **shipbuilder** sighs,  
+Dreaming of voyages beneath the vast skies.  
+#690: GYPSY, G Y P S Y.
+#691: CHAPTER, C H A P T E R.
+#692: JAPAN, J A P A N.
+#693: CHIPMUNK, C H I P M U N K.
+#694: CHAPERON, C H A P E R O N.
+#695: CHAPLIN, C H A P L I N.
+#696: CHEAPJACK, C H E A P J A C K.
+#697: SHOPKEEPER, S H O P K E E P E R.
+#698: SHEEPFOLD, S H E E P F O L D.
+#699: SHIPBUILDER, S H I P B U I L D E R.
+
+#700 To #709.
+In the dusty **cases** of forgotten lore,  
+Whispers of a **ghost** linger evermore.  
+A distant **cousin** spins tales from the past,  
+Of a **cosmetic** beauty, a spell unsurpassed.  
+She danced like the **Kaiser** in a grand, old **castle**,  
+Echoes of laughter in halls that would dazzle.  
+In the evening’s hush, they filled out a **questionnaire**,  
+Sharing dreams and secrets, hearts laid bare.  
+From the heights of a **cascade**, where waters flow free,  
+They spoke of **cohesiveness**, just like the sea.  
+Yet in the corner, a **cuspidor** stood tall,  
+A reminder that even in joy, we must face it all.  
+#700: CASES, C A S E S.
+#701: GHOST, G H O S T.
+#702: COUSIN, C O U S I N.
+#703: COSMETIC, C O S M E T I C.
+#704: KAISER, K A I S E R.
+#705: CASTLE, C A S T L E.
+#706: QUESTIONNAIRE, Q U E S T I O N N A I R E.
+#707: CASCADE, C A S C A D E.
+#708: COHESIVENESS, C O H E S I V E N E S S.
+#709: CUSPIDOR, C U S P I D O R.
+
+#710 To #719.
+In the shadows of the **catspaw**, whispers weave,  
+A young **cadet** stands firm, ready to believe.  
+His uniform crisp, made of fine **cotton**,  
+In the heart of **Gotham**, where hopes are often forgotten.  
+Through the **gutter**, dreams flow like a river,  
+A mind caught in **catalepsy**, a stillness that won’t quiver.  
+Yet a wise **quotation** sparks the fire within,  
+A memory captured like a snapshot on **Kodak** skin.  
+The **gadfly** buzzes, challenging the norm,  
+While thoughts are launched like a **catapult**, breaking the form.  
+With courage in his heart and purpose in his stride,  
+He’ll rise above the darkness, and let his spirit guide.  
+#710: CATSPAW, C A T S P A W.
+#711: CADET, C A D E T.
+#712: COTTON, C O T T O N.
+#713: GOTHAM, G O T H A M.
+#714: GUTTER, G U T T E R.
+#715: CATALEPSY, C A T A L E P S Y.
+#716: QUOTATION, Q U O T A T I O N.
+#717: KODAK, K O D A K.
+#718: GADFLY, G A D F L Y.
+#719: CATAPULT, C A T A P U L T.
+
+#720 To #729.
+In the valley of **consumption**, where dreams run sweet as **candy**,  
+Lies a hidden **canyon**, steep and deep, where shadows feel uncanny.  
+A **gunman** lurks in silence, in the echo of the night,  
+While a bright **canary** sings, its song a beacon light.  
+By the winding **canal**, where the waters intertwine,  
+Lies a tale of **congestion**, a dance of fate divine.  
+A wandering **gang** of whispers, like leaves upon the breeze,  
+Paints a world on **canvas**, where colors swirl with ease.  
+Yet beneath this vibrant surface, there’s a truth that's quite a thrill—  
+A tale of the **cannibal**, of hunger, dark and chill.  
+In this tapestry of life, where joy and sorrow blend,  
+We find our place in shadows, and in the light, transcend.  
+#720: CONSUMPTION, C O N S U M P T I O N.
+#721: CANDY, C A N D Y.
+#722: CANYON, C A N Y O N.
+#723: GUNMAN, G U N M A N.
+#724: CANARY, C A N A R Y.
+#725: CANAL, C A N A L.
+#726: CONGESTION, C O N G E S T I O N.
+#727: GANG, G A N G.
+#728: CANVAS, C A N V A S.
+#729: CANNIBAL, C A N N I B A L.
+
+#730 To #739.
+In the lab of the **chemist**, beneath the stars so bright,  
+A **comet** streaks across the sky, a fleeting, wondrous sight.  
+Draped in a flowing **kimono**, she watches with delight,  
+Celebrating the **commemoration** of a night that feels just right.  
+In shadows, whispers linger, a secret **camarilla** hides,  
+Like a wandering **camel** crossing the desert’s shifting tides.  
+With a noble **commission**, he stands, fierce and proud,  
+The **gamecock** crows with fervor, defying the gathering crowd.  
+Adorned in hues of nature, the art of **camouflage** is key,  
+While the world spins like a **compass**, searching for its destiny.  
+In this tapestry of life, where every thread aligns,  
+We find the strength of unity, where hope and courage shine.  
+#730: CHEMIST, C H E M I S T.
+#731: COMET, C O M E T.
+#732: KIMONO, K I M O N O.
+#733: COMMEMORATION, C O M M E M O R A T I O N.
+#734: CAMARILLA, C A M A R I L L A.
+#735: CAMEL, C A M E L.
+#736: COMMISSION, C O M M I S S I O N.
+#737: GAMECOCK, G A M E C O C K.
+#738: CAMOUFLAGE, C A M O U F L A G E.
+#739: COMPASS, C O M P A S S.
+
+#740 To #749.
+In the days of **Croesus**, wealth beyond compare,  
+Life danced like a **cartoon**, vivid and laid bare.  
+A **carnival** of colors, laughter in the air,  
+Yet shadows linger softly, thoughts of **cremation** rare.  
+The **carrier** of dreams winds through life’s winding ways,  
+With a playful **curl**, it teases through the haze.  
+In the cozy **garage**, where memories reside,  
+A **corkscrew** waits, like secrets tucked inside.  
+A wandering **caravan**, beneath the starlit sky,  
+Moves like whispers on the breeze, a fleeting lullaby.  
+Draped in **crape**, the past holds stories yet untold,  
+In the tapestry of time, both the young and the old.  
+#740: CROESUS, C R O E S U S.
+#741: CARTOON, C A R T O O N.
+#742: CARNIVAL, C A R N I V A L.
+#743: CREMATION, C R E M A T I O N.
+#744: CARRIER, C A R R I E R.
+#745: CURL, C U R L.
+#746: GARAGE, G A R A G E.
+#747: CORKSCREW, C O R K S C R E W.
+#748: CARAVAN, C A R A V A N.
+#749: CRAPE, C R A P E.
+
+#750 To #759.
+In the **class** of time, where stories unfold,  
+Worn **kilts** dance lightly, their fabric bold.  
+A **cleaner** sweep of history’s embrace,  
+Echoes of **Columbus**, a quest to trace.  
+In the **galley** of dreams, we chart our course,  
+Through the **coalhole** of shadows, seeking a force.  
+At the **college** of wisdom, knowledge takes flight,  
+The **clock** ticks gently, measuring day and night.  
+A **glove** of compassion fits snugly in hand,  
+As we gather together, a united **club** band.  
+With each thread we weave, and each path we take,  
+We honor the past while forging what’s great.  
+#750: CLASS, C L A S S.
+#751: KILTS, K I L T S.
+#752: CLEANER, C L E A N E R.
+#753: COLUMBUS, C O L U M B U S.
+#754: GALLEY, G A L L E Y.
+#755: COALHOLE, C O A L H O L E.
+#756: COLLEGE, C O L L E G E.
+#757: CLOCK, C L O C K.
+#758: GLOVE, G L O V E.
+#759: CLUB, C L U B.
+
+#760 To #769.
+In the world of **geishas**, grace intertwines,  
+With deep **cogitation**, where beauty shines.  
+In the heart of the **kitchen**, where flavors align,  
+Soft **cashmere** whispers, a fabric divine.  
+A skillful **casher** counts treasures with care,  
+While thoughts of the **cudgel** bring strength to bear.  
+On the **couch-edge**, we ponder the day,  
+With **caoutchouc** dreams that bounce and sway.  
+A clever **catch-phrase** ignites the night air,  
+As we savor the warmth of **ketchup** laid bare.  
+In this tapestry woven with stories and cheer,  
+We celebrate moments that bring us near.  
+#760: GEISHAS, G E I S H A S.
+#761: COGITATION, C O G I T A T I O N.
+#762: KITCHEN, K I T C H E N.
+#763: CASHMERE, C A S H M E R E.
+#764: CASHER, C A S H E R.
+#765: CUDGEL, C U D G E L.
+#766: COUCH-EDGE, C O U C H- E D G E.
+#767: CAOUTCHOUC, C A O U T C H O U C.
+#768: CATCH-PHRASE, C A T C H- P H R A S E.
+#769: KETCHUP, K E T C H U P.
+
+#770 To #779.
+**Quicksilver** dreams in the desert bright,  
+By a stubborn **cactus**, standing in light.  
+Wrapped in a **cocoon**, where silence blooms,  
+Escaping the **quagmire** of hidden dooms.  
+A silent **Quaker**, calm and serene,  
+Sees life through the **goggle**'s crystal sheen.  
+Like a **cowcatcher** clearing the path ahead,  
+Or a **cakewalk** dance, lightly tread.  
+In the chaos of a wild **cockfight** spin,  
+Each struggle crowns a hidden **kingpin**.  
+Life flows swiftly, yet still it sings,  
+Through battles, grace, and the flight of wings.  
+#770: QUICKSILVER, Q U I C K S I L V E R.
+#771: CACTUS, C A C T U S.
+#772: COCOON, C O C O O N.
+#773: QUAGMIRE, Q U A G M I R E.
+#774: QUAKER, Q U A K E R.
+#775: GOGGLE, G O G G L E.
+#776: COWCATCHER, C O W C A T C H E R.
+#777: CAKEWALK, C A K E W A L K.
+#778: COCKFIGHT, C O C K F I G H T.
+#779: KINGPIN, K I N G P I N.
+
+#780 To #789.
+In **calfskin** shoes, he walks with pride,  
+Past the noisy **cafeteria** on the side.  
+But thoughts of a **coffin** cross his mind,  
+A modern man, yet a **caveman** confined.  
+He dines on **caviars**, drinks to the night,  
+While the **gavel** strikes with decisive might.  
+The world spins around **ecoefficiency** and green,  
+But all he offers is **equivocation**, unseen.  
+Over morning **coffee**, he contemplates his fate,  
+Fingers fiddling with a lost **cuff-button** in debate.  
+Between life’s luxuries and ancient fears,  
+He stands at the edge of the shifting years.
+#780: CALFSKIN, C A L F S K I N.
+#781: CAFETERIA, C A F E T E R I A.
+#782: COFFIN, C O F F I N.
+#783: CAVEMAN, C A V E M A N.
+#784: CAVIARS, C A V I A R S.
+#785: GAVEL, G A V E L.
+#786: ECOEFFICIENCY, E C O E F F I C I E N C Y.
+#787: EQUIVOCATION, E Q U I V O C A T I O N.
+#788: COFFEE FILTER, C O F F E E  F I L T E R.
+
+#790 To #799.
+In a **capsule** of time, the **capitalist** reigns,  
+From his **cabin** on the hill, he surveys his gains.  
+A man like **Cadman**, steadfast, precise,  
+The **keeper** of riches at any price.  
+But beneath the gold, lurks a **goblin**'s grin,  
+Feasting on dreams like boiled **cabbage** thin.  
+Within the walls of his **cubicle**, small and square,  
+He measures success by the **cupful** of care.  
+His life, a page from an old **copybook**,  
+Where fortunes are written, and freedom forsook.  
+#790: CAPSULE, C A P S U L E.
+#791: CAPITALIST, C A P I T A L I S T.
+#792: CABIN, C A B I N.
+#793: CADMAN, C A D M A N.
+#794: KEEPER, K E E P E R.
+#795: GOBLIN, G O B L I N.
+#796: CABBAGE, C A B B A G E.
+#797: CUBICLE, C U B I C L E.
+#798: CUPFUL, C U P F U L.
+#799: COPYBOOK, C O P Y B O O K.
+
+#800 To #809.
+The **fuses** of anger spark and twist,  
+Tightly clenched is the iron **fist**.  
+A broken heart held by a **fastener** thin,  
+Yearning for quiet, for **effacement** to begin.  
+Behind the **visor**, emotions hide,  
+Smoothed like wounds with **Vaseline** applied.  
+The **physician** tends to a fragile frame,  
+Mending the spirit, restoring the **physique**’s flame.  
+As the glow of **phosphor** dims at last,  
+The day surrenders to sacred **vespers** cast.
+#800: FUSES, F U S E S.
+#801: FIST, F I S T.
+#802: FASTENER, F A S T E N E R.
+#803: EFFACEMENT, E F F A C E M E N T.
+#804: VISOR, V I S O R.
+#805: VASELINE, V A S E L I N E.
+#806: PHYSICIAN, P H Y S I C I A N.
+#807: PHYSIQUE, P H Y S I Q U E.
+#808: PHOSPHOR, P H O S P H O R.
+#809: VESPERS, V E S P E R S.
+
+#810 To #819.
+Through the aisles of life, we gather **foodstuffs**,  
+Guarded like a **vidette**, on duty, rough and tough.  
+In each passage of our days, a humble **footnote** hides,  
+Moments we fail to **fathom**, slipping like tides.  
+A guiding hand, the **father**, with steady stride,  
+His **vitality** a beacon, lighting paths wide.  
+Some hold a **fetich** for the past, untamed,  
+Crossing bridges like a **viaduct**, never the same.  
+Under bright lights, laughter and song in **vaudeville's** grace,  
+While echoes of **football** thunder across the space.  
+#810: FOODSTUFFS, F O O D S T U F F S.
+#811: VIDETTE, V I D E T T E.
+#812: FOOTNOTE, F O O T N O T E.
+#813: FATHOM, F A T H O M.
+#814: FATHER, F A T H E R.
+#815: VITALITY, V I T A L I T Y.
+#816: FETICH, F E T I C H.
+#817: VIADUCT, V I A D U C T.
+#818: VAUDEVILLE, V A U D E V I L L E.
+#819: FOOTBALL, F O O T B A L L.
+
+#820 To #829.
+A **fence** stands tall, weathered and wise,  
+Guarding the secrets where the **fountain** lies.  
+The **financier** watches, with a careful gaze,  
+Seeing wealth as a fleeting **phenomenon**, a passing phase.  
+Life’s polished with a delicate **veneer**,  
+Though truth pours through, like a **funnel** clear.  
+The **finisher** marks the end with a bitter sip,  
+Like the tang of **vinegar** on tightened lips.  
+With a burst of **fanfare**, the silence breaks,  
+Echoes lost in the pages of an old **phonebook's** wakes.
+#820: FENCE, F E N C E.
+#821: FOUNTAIN, F O U N T A I N.
+#822: FINANCIER, F I N A N C I E R.
+#823: PHENOMENON, P H E N O M E N O N.
+#824: VENEER, V E N E E R.
+#825: FUNNEL, F U N N E L.
+#826: FINISHER, F I N I S H E R.
+#827: VINEGAR, V I N E G A R.
+#828: FANFARE, F A N F A R E.
+#829: PHONEBOOK, P H O N E B O O K.
+
+#830 To #839.
+Through the thickest **fumes**, the night unfurled,  
+A dose of **famotidine** steadied the world.  
+With **vehemence** stirred in every breath,  
+A **vim-maker** danced on the edge of death.  
+Bones like the **femur** cracked under strain,  
+But the **family** gathered, ignoring the pain.  
+Their hearts once **famished**, now long to revive,  
+As the air clears with **fumigation's** strive.  
+Once **fame-full**, now shadows remain,  
+A whisper of life, like a lurking **vampire's** reign.  
+#830: FUMES, F U M E S.
+#831: FAMOTIDINE, F A M O T I D I N E.
+#832: VEHEMENCE, V E H E M E N C E.
+#833: VIM-MAKER, V I M- M A K E R.
+#834: FEMUR, F E M U R.
+#835: FAMILY, F A M I L Y.
+#836: FAMISH, F A M I S H.
+#837: FUMIGATION, F U M I G A T I O N.
+#838: FAME-FULL, F A M E- F U L L.
+#839: VAMPIRE, V A M P I R E.
+
+#840 To #849.
+In a whispered **verse**, beneath the sky,  
+The moon watched over a passing **freight** roll by.  
+At the **front**, the engine stood so **firm**,  
+Like life’s direction, steady and stern.  
+Above, the crack of **fireworks** bloomed,  
+While a rider brushed his **forelock**, gloomed.  
+In the depths of night, the iron **forge** burned,  
+Shaping dreams where the world had turned.  
+A **freak** storm scattered, leaving quiet sighs,  
+Yet in the dark, a single **firefly** flies.  
+A rebel heart, a daring **freebooter**,  
+Chasing the night, the untamed shooter.  
+#840: VERSE, V E R S E.
+#841: FREIGHT, F R E I G H T.
+#842: FRONT, F R O N T.
+#843: FIRM, F I R M.
+#844: FIREWORKS, F I R E W O R K S.
+#845: FORELOCK, F O R E L O C K.
+#846: FORGE, F O R G E.
+#847: FREAK, F R E A K.
+#848: FIREFLY, F I R E F L Y.
+#849: FREEBOOTER, F R E E B O O T E R.
+
+#850 To #859.
+She packed her **valise** as clouds did brood,  
+A storm approaching, whispering **flood**.  
+But in the corner, a lost **Valentine**,  
+From days of love, both sweet and fine.  
+A heavy **volume**, thick with tales,  
+With words that drift like ocean sails.  
+A letter tucked, a hidden **feeler**,  
+Between the pages, its secret healer.  
+On the **flyleaf**, a **flash** of light,  
+A memory’s flag in the endless night.  
+Soft as **velvet**, but strong as steel,  
+Like a golden **flapjack** from a bygone meal.  
+#850: VALISE, V A L I S E.
+#851: FLOOD, F L O O D.
+#852: VALENTINE, V A L E N T I N E.
+#853: VOLUME, V O L U M E.
+#854: FEELER, F E E L E R.
+#855: FLYLEAF, F L Y L E A F.
+#856: FLASH, F L A S H.
+#857: FLAG, F L A G.
+#858: VELVET, V E L V E T.
+#859: FLAPJACK, F L A P J A C K.
+
+#860 To #869.
+**Voyages** of a **Vegetarian**
+In distant **voyages**, I set my sail,  
+A **vegetarian** heart, where dreams prevail.  
+In the world of **fashion**, bright colors gleam,  
+Like a **fishman** swimming through a vivid dream.  
+Through every **fissure** in the ocean's wide,  
+I navigate with **vigilance**, my constant guide.  
+No **vitiation** in my purest thoughts,  
+For kindness grows where love is sought.  
+With a **fetching** smile, I greet the day,  
+With my trusty **fish-fork**, I make my way.  
+In a **fishbowl** of life, reflections clear,  
+I find my peace, and hold it dear.  
+#860: VOYAGES, V O Y A G E S.
+#861: VEGETARIAN, V E G E T A R I A N.
+#862: FASHION, F A S H I O N.
+#863: FISHMAN, F I S H M A N.
+#864: FISSURE, F I S S U R E.
+#865: VIGILANCE, V I G I L A N C E.
+#866: VITIATION, V I T I A T I O N.
+#867: FETCHING, F E T C H I N G.
+#868: FISH-FORK, F I S H- F O R K.
+#869: FISHBOWL, F I S H B O W L.
+
+#870 To #879.
+**The Fox and the Figment**
+In the quiet woods, a sly **fox** roams,  
+Searching for a **victim**, far from its home.  
+A sense of **vacancy** fills the air,  
+As whispers of shadows weave tales of despair.  
+Yet in the mind, a **figment** takes flight,  
+A fleeting **figure** dancing in twilight.  
+With a **fig-leaf** cloaked in stories untold,  
+Nature's secrets begin to unfold.  
+In dreams of **vacation**, the spirit sets sail,  
+Adventuring forth, like a fearless **Viking** trail.  
+A **fog-flag** waves, a signal to seek,  
+New horizons beckon, adventures unique.  
+With every step, I expand my **vocabulary**,  
+Crafting my tales, rich and ordinary.  
+For in the heart, the world comes alive,  
+In the dance of words, we learn to thrive.  
+#870: FOX, F O X.
+#871: VICTIM, V I C T I M.
+#872: VACANCY, V A C A N C Y.
+#873: FIGMENT, F I G M E N T.
+#874: FIGURE, F I G U R E.
+#875: FIG-LEAF, F I G- L E A F.
+#876: VACATION, V A C A T I O N.
+#877: VIKING, V I K I N G.
+#878: FOG-FLAG, F O G- F L A G.
+#879: VOCABULARY, V O C A B U L A R Y.
+
+#880 To #889.
+**Echoes of Life**
+In the realm of **vivisection**, truths dissected,  
+A quest for **vividness**, where life is reflected.  
+The **vivandiere** waits, with stories to share,  
+On a **five-master** ship, drifting through the air.  
+Through the pulse of the **fever**, a heartbeat rings,  
+In a world that’s **half-full**, hope dances and sings.  
+**Vivaciousness** blooms, like flowers in spring,  
+As the essence of **five** resonates, vibrant and bold.  
+With the **vivification** of dreams yet to spark,  
+From the shadows of doubt, emerges a lark.  
+In this dance of existence, both fierce and serene,  
+We cherish the **vivipara**, life’s beauty unseen.    
+#880: VIVISECTION, V I V I S E C T I O N.
+#881: VIVIDNESS, V I V I D N E S S.
+#882: VIVANDIERE, V I V A N D I E R E.
+#883: FIVE-MASTER, F I V E- M A S T E R.
+#884: FEVER, F E V E R.
+#885: HALF-FULL, H A L F- F U L L.
+#886: VIVACIOUSNESS, V I V A C I O U S N E S S.
+#887: FIVE, F I V E.
+#888: VIVIFICATION, V I V I F I C A T I O N.
+#889: VIVIPARA, V I V I P A R A.
+
+#890 To #899.
+**Tales of Half-Truths**
+In a world of **fibs** and tales untold,  
+Where the **wifebeater** whispers, and stories unfold.  
+From each **viewpoint**, a truth may gleam,  
+Yet all is not what it seems in this half-balm dream.  
+A thread of **fiber** weaves through the night,  
+Each **fable** a lantern, flickering bright.  
+Though the fabric seems **half-patched**,  
+In the **fee-book** of life, we’re all slightly scratched.  
+The roads are **half-paved**, with memories that tease,  
+As we carry our burdens, like a **fob-piece** with ease.  
+In this tapestry woven with shadows and light,  
+We dance through the stories, in the depths of the night.
+#890: FIBS, F I B S.
+#891: WIFEBEATER, W I F E B E A T E R.
+#892: VIEWPOINT, V I E W P O I N T.
+#893: HALF-BALMY, H A L F- B A L M Y.
+#894: FIBER, F I B E R.
+#895: FABLE, F A B L E.
+#896: HALF-PATCHED, H A L F- P A T C H E D.
+#897: FEE-BOOK, F E E- B O O K.
+#898: HALF-PAVED, H A L F- P A V E D.
+#899: FOB-PIECE, F O B- P I E C E.
+
+#900 To #909.
+**Journey of Shadows**
+In the life of a **pacesetter**, I stride with intent,  
+But a **pest** of doubt whispers, my will it may rent.  
+With **poison** of worry, it seeps through the seams,  
+In the depths of the **basement**, I hide all my dreams.  
+The vibrant **bazaar** of life teems with delight,  
+Yet lurking is the **bacillus**, a shadow in sight.  
+I seek my true **position** beneath the bright sun,  
+A **biscuit** of comfort, I savor each crumb.  
+During **Passover** moments, I remember the past,  
+With a **passport** of memories, I wander steadfast.  
+Through trials and triumphs, I'll find my own way,  
+In this journey of shadows, I’ll rise with the day.  
+#900: PACESETTER, P A C E S E T T E R.
+#901: PEST, P E S T.
+#902: POISON, P O I S O N.
+#903: BASEMENT, B A S E M E N T.
+#904: BAZAAR, B A Z A A R.
+#905: BACILLUS, B A C I L L U S.
+#906: POSITION, P O S I T I O N.
+#907: BISCUIT, B I S C U I T.
+#908: PASSOVER, P A S S O V E R.
+#909: PASSPORT, P A S S P O R T.
+
+#910 To #919.
+**A Culinary Journey**
+On a **pedestal** high, I place my delight,  
+A humble **potato**, baked golden and bright.  
+With a **button** of butter, it melts with a sigh,  
+From the **bottom** of earth, it reaches the sky.  
+As I **pedal** through gardens where fresh herbs grow,  
+The simmering **pottage** starts warming the soul,  
+In the **pedigree** of flavors, this dish takes the lead,  
+A true **pathfinder** in culinary need.  
+And there on the table, with warmth all around,  
+A hearty **potpie** awaits, where comfort is found.  
+Each bite tells a story of love and of care,  
+In this kitchen of dreams, there's magic to share.  
+#910: PEDESTAL, P E D E S T A L.
+#911: POTATO, P O T A T O.
+#912: BUTTON, B U T T O N.
+#913: BOTTOM, B O T T O M.
+#914: BUTTER, B U T T E R.
+#915: PEDAL, P E D A L.
+#916: POTTAGE, P O T T A G E.
+#917: PEDIGREE, P E D I G R E E.
+#918: PATHFINDER, P A T H F I N D E R.
+#919: POTPIE, P O T P I E.
+
+#920 To #929.
+**A Market Day**
+With **pincers** in hand, I grasp the day’s light,  
+Each **pound** of joy weighed, a treasure in sight.  
+An **anana** sweet, ripe with a glow,  
+In **Panama**, the warm breezes blow.  
+A vivid **panorama** of colors unfolds,  
+As I join the **panel** of stories retold.  
+With a **punch** of excitement, the laughter ignites,  
+In the heart of the market, the spirit unites.  
+But beware of the **puncture** that life can bestow,  
+For a **benefactor** here might help you to grow.  
+Yet in shadowy corners, the **pawnbroker** waits,  
+Holding dreams and desires, beneath gilded plates.  
+#920: PINCERS, P I N C E R S.
+#921: POUND, P O U N D.
+#922: ANANA, A N A N A.
+#923: PANAMA, P A N A M A.
+#924: PANORAMA, P A N O R A M A.
+#925: PANEL, P A N E L.
+#926: PUNCH, P U N C H.
+#927: PUNCTURE, P U N C T U R E.
+#928: BENEFACTOR, B E N E F A C T O R.
+#929: PAWNBROKER, P A W N B R O K E R.
+
+#930 To #939.
+**A Day at the Market**  
+In the warmth of the sun, a stone of **pumice** lies,  
+While a glimmer of **pomade** catches the eyes.  
+With each **payment** made, the hustle takes flight,  
+A **bombmaker**’s secret lurks in the night.  
+But what’s this? A **boomerang** arcs through the air,  
+A playful reminder that life’s never bare.  
+A sweet **pomelo** rests, with a fragrance so bold,  
+An unexpected **bombshell**, a story retold.  
+**Pemmican** waiting, a feast in the shade,  
+With a vibrant **pamphlet**, new adventures displayed.  
+As laughter surrounds, and joy fills the **pump**,  
+In the heart of the market, the spirit does jump.  
+#930: PUMICE, P U M I C E.
+#931: POMADE, P O M A D E.
+#932: PAYMENT, P A Y M E N T.
+#933: BOMBMAKER, B O M B M A K E R.
+#934: BOOMERANG, B O O M E R A N G.
+#935: POMELO, P O M E L O.
+#936: BOMBSHELL, B O M B S H E L L.
+#937: PEMMICAN, P E M M I C A N.
+#938: PAMPHLET, P A M P H L E T.
+#939: PUMP, P U M P.
+
+#940 To #949.
+**The Prairie Parade**  
+With a gleaming **brass** band, the **parade** begins,  
+A symphony of joy, where the laughter spins.  
+Through streets lined with colors, they **prune** back the doubt,  
+In the heart of the crowd, there’s a vibrant shout.  
+A **pyramid** of dreams rises high in the air,  
+While the **prairie** winds dance without a care.  
+Rolling along, like a **barrel** of cheer,  
+Each moment unfolding, as joy draws near.  
+Up in the sky, like a **parachute** bright,  
+Dreams take to the heavens, igniting the night.  
+A **brick** of old memories, holding perfume’s trace,  
+As a **barber** crafts stories, each line in its place.  
+Together they celebrate, life’s beautiful weave,  
+In the rhythm of moments, we learn to believe.  
+#940: BRASS, B R A S S.
+#941: PARADE, P A R A D E.
+#942: PRUNE, P R U N E.
+#943: PYRAMID, P Y R A M I D.
+#944: PRAIRIE, P R A I R I E.
+#945: BARREL, B A R R E L.
+#946: PARACHUTE, P A R A C H U T E.
+#947: BRICK, B R I C K.
+#948: PERFUME, P E R F U M E.
+#949: BARBER, B A R B E R.
+
+#950 To #959.
+**A Day at the Palace**  
+In the grand **palace**, where dreams unfold,  
+Echoes of **blood**lines and stories of old.  
+Children's laughter rises, like a bright **balloon**,  
+Filling the air with joy, morning to noon.  
+Amidst the whispers, the **pulmotor** hums,  
+Life’s heartbeat steady, as adventure comes.  
+Steam from the **boiler** wafts soft through the halls,  
+While shadows of memories dance on the walls.  
+The **pool-holder** waits by the shimmering tide,  
+As fans fill the **bleachers**, their hearts open wide.  
+A **block** of excitement, where time stands still,  
+On the vibrant **boulevardier**, dreams begin to thrill.  
+Together they gather, with stories to **pulp**,  
+In the rhythm of life, every joy is a gulp.  
+In this moment of magic, they cherish the light,  
+For in the heart of the palace, everything feels right.  
+#950: PALACE, P A L A C E.
+#951: BLOOD, B L O O D.
+#952: BALLOON, B A L L O O N.
+#953: PULMOTOR, P U L M O T O R.
+#954: BOILER, B O I L E R.
+#955: POOL-HOLDER, P O O L- H O L D E R.
+#956: BLEACHERS, B L E A C H E R S.
+#957: BLOCK, B L O C K.
+#958: BOULEVARDIER, B O U L E V A R D I E R.
+#959: PULP, P U L P.
+
+#960 To #969.
+**A Market Day**  
+In the sunlit market, ripe **peaches** gleam,  
+Surrounded by stalls of fine **bijouterie** dream.  
+A **patient** shopper with an eager gaze,  
+Watches the hustle of the bustling maze.  
+The **Bushman** whispers tales of the land,  
+While the **butcher** displays his fresh, skillful hand.  
+A **bachelor** stands with a hopeful heart,  
+Yearning for love, a true work of art.  
+He hums a soft tune, a sweet **appoggiatura**,  
+While the **pushcart** rolls past, a delightful allure.  
+A **pitchfork** rests against the wooden stall,  
+As laughter erupts, a communal call.  
+A **bishop** walks by, with wisdom and grace,  
+In this vibrant market, a familiar place.  
+With **peaches** and stories, the day flows along,  
+In the heart of the city, where life sings its song.  
+#960: PEACHES, P E A C H E S.
+#961: BIJOUTERIE, B I J O U T E R I E.
+#962: PATIENT, P A T I E N T.
+#963: BUSHMAN, B U S H M A N.
+#964: BUTCHER, B U T C H E R.
+#965: BACHELOR, B A C H E L O R.
+#966: APPOGGIATURA, A P P O G G I A T U R A.
+#967: PUSHCART, P U S H C A R T.
+#968: PITCHFORK, P I T C H F O R K.
+#969: BISHOP, B I S H O P.
+
+#970 To #979.
+**A Day at the Fair**  
+In a weathered **box** beneath the sun’s warm glow,  
+Stands a charming **pagoda**, where the gentle breezes flow.  
+The scent of sizzling **bacon** wafts through the air,  
+As laughter dances lightly, without a single care.  
+Beware the **bogyman** lurking in the night,  
+A shadow in the corner, just out of sight.  
+But amidst the joy, we gather for some **poker**,  
+Chips clatter and stories shared, laughter getting bolder.  
+With a **buckle** on my belt and a heart full of cheer,  
+We savor the **backwash** of summer's sweetest beer.  
+A proud **peacock** struts by, feathers fanned in display,  
+While children chase their dreams, on this bright fair day.  
+I think of **Pickford**, the tales of olden times,  
+As the echoes of the past weave through today’s rhymes.  
+With a sturdy **backbone**, we face the world anew,  
+In the heart of this fair, where hope and joy break through.  
+#970: BOX, B O X.
+#971: PAGODA, P A G O D A.
+#972: BACON, B A C O N.
+#973: BOGYMAN, B O G Y M A N.
+#974: POKER, P O K E R.
+#975: BUCKLE, B U C K L E.
+#976: BACKWASH, B A C K W A S H.
+#977: PEACOCK, P E A C O C K.
+#978: PICKFORD, P I C K F O R D.
+#979: BACKBONE, B A C K B O N E.
+
+#980 To #989.
+**A Day in the Park**  
+Underneath the sun, a grand **beefsteak** feast,  
+Friends gather around, celebrating with the least.  
+We **pivot** with laughter, sharing stories so light,  
+Yet in the corner, a **buffoon** dances in delight.  
+On the **pavement**, we spread our blankets wide,  
+While a curious **beaver** swims near the riverside.  
+Majestic as a **buffalo**, strong and free,  
+It wanders close, as if it came to see.  
+A hint of **peeveishness** from a child with a frown,  
+As a sibling steals a toy, bringing spirits down.  
+But soon we set our **bivouac**, a shelter for all,  
+With a **Bevo-flask** ready, to quench thirst at the call.  
+The day rolls on with joy, like a gentle **puffball**,  
+As laughter fills the air, echoing through the sprawl.  
+In this haven of nature, our hearts are unconfined,  
+A perfect blend of moments, in harmony entwined.  
+#980: BEEFSTEAK, B E E F S T E A K.
+#981: PIVOT, P I V O T.
+#982: BUFFOON, B U F F O O N.
+#983: PAVEMENT, P A V E M E N T.
+#984: BEAVER, B E A V E R.
+#985: BUFFALO, B U F F A L O.
+#986: PEEVISHNESS, P E E V I S H N E S S.
+#987: BIVOUAC, B I V O U A C.
+#988: BEVO-FLASK, B E V O- F L A S K.
+#989: PUFFBALL, P U F F B A L L.
+
+#990 To #999.
+**The Curious Theatre**  
+In the quiet of the night, there’s **pepsin** in the air,  
+A **puppet** on the stage dances without a care.  
+Behind the scenes, the **bobbins** spin, weaving dreams anew,  
+While the **pipe-maker** hums a tune, as if he always knew.  
+With a dash of **pepper** for flavor, the stories start to unfold,  
+Echoing through the **Bible** tales, where ancient wisdom's told.  
+A **peepshow** reveals the secrets, hidden deep inside,  
+As laughter fills the space, and joy cannot abide.  
+A bowl of **popcorn** sits nearby, crisp and warm to share,  
+While a **popover** rises high, a treat beyond compare.  
+Yet in this playful chaos, a twist takes by surprise,  
+For someone claims the **booby-prize**, beneath the stage's skies.  
+So here we gather, hearts alight, in this whimsical domain,  
+Where puppets dance and stories sing, in joy and sweet refrain.  
+#990: PEPSIN, P E P S I N.
+#991: PUPPET, P U P P E T.
+#992: BOBBINS, B O B B I N S.
+#993: PIPE-MAKER, P I P E- M A K E R.
+#994: PEPPER, P E P P E R.
+#995: BIBLE, B I B L E.
+#996: PEEPSHOW, P E E P S H O W.
+#997: POPCORN, P O P C O R N.
+#998: POPOVER, P O P O V E R.
+#999: BOOBY-PRIZE, B O O B Y- P R I Z E.
+
+#1000 To #9000
+**The Scholar's Journey**  
+In the quiet of my **thesis**, thoughts begin to flow,  
+As **nieces** gather 'round me, their laughter on the go.  
+They are my little **muses**, sparking ideas bright,  
+Whispering of **horses** galloping into the night.  
+But when the day **loses** its charm to evening's sigh,  
+I find solace in the stories of **Jesus** drawing nigh.  
+He speaks of love and kindness, a light to guide our way,  
+While **gasses** of confusion drift silently away.  
+In the **office** of my heart, where dreams and hopes convene,  
+I ponder over life's questions, reflecting on what’s seen.  
+With each word from my **bosses**, I carve my path anew,  
+In this dance of thoughts and feelings, where faith and wisdom brew.  
+#1000: THESIS, T H E S I S.                                                                               
+#2000: NIECES, N I E C E S.
+#3000: MUSES, M U S E S.
+#4000: HORSES, H O R S E S.
+#5000: LOSES, L O S E S.
+#6000: JESUS J E S U S.
+#7000: GASSES, G A S S E S.
+#8000: OFFICE, O F F I C E.
+#9000: BOSSES, B O S S E S.
+
