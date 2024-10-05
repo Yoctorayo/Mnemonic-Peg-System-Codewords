@@ -10,17 +10,7 @@
 #9: p, b; Upper case P and lower case p look like the numeral 9 flipped horizontally. Lower case b looks like the numeral 9 turned 180°. 
 Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah), j (in Hallelujah and jalapeno), ll (in tortilla); Vowel sounds, semivowels (/j/ and /w/) and /h/ do not correspond to any number. They can appear anywhere in a word without changing its number value.
 (2, 27 or 7) ng, n before k, hard c, q, hard g or x; Variant systems differ about whether /ŋ/ should encode 2 and classified together with /n/, 7 and classified together with /k/ and /ɡ/ or even 27 (e.g. ring could be 42, 47 or 427). When a /k/ and /ɡ/ is pronounced separately after the /ŋ/, variant systems that chose /ŋ/ to be 27 also disagree if an extra 7 should be written (e.g. finger could be 8274 or 82774, or if /ŋ/ is chosen to be 7, 8774).
-0 = s, x, z soft c.
-1 = t, d, th.
-2 = n.
-3 = m.
-4 = r.
-5 = l.
-6 = sh, ch, j, soft g.
-7 = c, k, hard g, q.
-8 = f, v, ph.
-9 = p, b.
-
+0 = s, x, z soft c. 1 = t, d, th. 2 = n. 3 = m. 4 = r. 5 = l. 6 = sh, ch, j, soft g. 7 = c, k, hard g, q. 8 = f, v, ph. 9 = p, b.
 #000: SEESAWS, S E E S A W S.
 #001: SOCIETY, S O C I E T Y.
 #002: ASSASSIN, A S S A S S I N.
